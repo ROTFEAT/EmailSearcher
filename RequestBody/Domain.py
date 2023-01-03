@@ -1,10 +1,10 @@
 #获取输入公司的域名信息
 
 #根据api调用
-from BaseRequestBody import *
+from SnovBaseRequestBody import *
 import requests
 from utils.TryRequest import *
-class DomainCompanies(BaseRequestBody):
+class DomainCompanies(SnovBaseRequestBody):
     cookies = {
         '_gcl_au': '1.1.32341399.1672211150',
         '_ga': 'GA1.3.290382776.1672211150',
@@ -62,7 +62,7 @@ class DomainCompanies(BaseRequestBody):
         response = trypost('https://app.snov.io/search/domainCompanies', cookies=self.cookies, headers=self.headers, json=self.json_data)
         return response
   
-
+  
 if __name__ == "__main__":
     domaincompanies = DomainCompanies()
     res = domaincompanies.get_domain_companies("ddd").json()
