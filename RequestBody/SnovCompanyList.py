@@ -1,10 +1,10 @@
 import requests
-from utils.TryRequest import *
+from RequestBody.utils.TryRequest import *
 import os
 import sys
 # sys.path.append("C:\公司项目\爬虫\snov_fake")
 sys.path.append(os.path.abspath(os.path.join(os.getcwd(), "."))) #导入当前目录
-from SnovBaseRequestBody import SnovBaseRequestBody
+from RequestBody.SnovBaseRequestBody import SnovBaseRequestBody
 class Companylist(SnovBaseRequestBody):
     cookies = {
     'snovTrackingId': 'jzrUnINGUvpXtOGwPzoG8sYo4yNzlyUM50U6q9zbWnlDybqW0KfZccc270BVZJEB',
@@ -74,4 +74,9 @@ class Companylist(SnovBaseRequestBody):
         print("=========================")
         response = tryget(url,params=self.params, cookies=self.cookies, headers=self.headers)
         # response = requests.get('https://app.snov.io/new/company-profile-search/result', params=self.params, cookies=self.cookies, headers=self.headers)
-        return response
+        return response.json()
+
+if __name__ =="__main__":
+    cl = Companylist()
+    cl.settaskid()
+    cl.getcompanylist()

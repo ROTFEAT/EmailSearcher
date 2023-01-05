@@ -1,7 +1,7 @@
 import requests
 import json
 import sys
-from SnovBaseRequestBody import *
+from RequestBody.SnovBaseRequestBody import *
 
 class params(SnovBaseRequestBody):
     cookies = {
@@ -72,7 +72,6 @@ class params(SnovBaseRequestBody):
         content = f.read()
         content = json.loads(content)
         return content
-
 
 if __name__ =="__main__":
     par = params()

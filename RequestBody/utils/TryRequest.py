@@ -7,12 +7,11 @@ def trypost(url,cookies,headers,json):
             a = [cookies,headers,json]
             response = requests.post(url,cookies=cookies, headers=headers, json=json)
             a = 1
-            if response.status_code ==200:
+            if (response.status_code ==200)|(response.status_code ==201):
                 break
             
         except:
             print("爬虫被发现了 休息一下zzzzz")
-
             time.sleep(2)
     
     return response

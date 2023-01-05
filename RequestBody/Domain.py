@@ -61,8 +61,9 @@ class DomainCompanies(SnovBaseRequestBody):
         self.json_data['query'] = query
         response = trypost('https://app.snov.io/search/domainCompanies', cookies=self.cookies, headers=self.headers, json=self.json_data)
         return response
-  
-  
+
+    
+
 if __name__ == "__main__":
     domaincompanies = DomainCompanies()
     res = domaincompanies.get_domain_companies("ddd").json()

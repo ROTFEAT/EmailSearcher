@@ -5,12 +5,13 @@ import sys
 # sys.path.append("C:\Code\Spider\request")
 import json
 # sys.path.append(os.path.abspath(os.path.join(os.getcwd(), "."))) #导入当前目录
-from utils.TryRequest import *
+from RequestBody.utils.TryRequest import *
 import difflib
-from params import *
+from RequestBody.params import *
 # from params import *
-from utils.TryRequest import *
-from SnovBaseRequestBody import  SnovBaseRequestBody
+# from RequestsBody.utils.TryRequest import *
+from RequestBody.utils.TryRequest import *
+from RequestBody.SnovBaseRequestBody import  SnovBaseRequestBody
 class Task(SnovBaseRequestBody):
     cookies = {
     'snovTrackingId': 'jzrUnINGUvpXtOGwPzoG8sYo4yNzlyUM50U6q9zbWnlDybqW0KfZccc270BVZJEB',
@@ -66,8 +67,8 @@ class Task(SnovBaseRequestBody):
             'locations': {
                 'include': [
                     {
-                        'id': 59,
-                        'locality': 'Cyprus',
+                        'id': 41,
+                        'locality': 'Canada',
                         'locationType': 'country',
                     },
                 ],
@@ -76,11 +77,16 @@ class Task(SnovBaseRequestBody):
             'industries': {
                 'include': [
                     {
-                        'id': 390,
-                        'name': 'Accommodation',
+                        'id': 87,
+                        'name': 'Medical Device',
                     },
                 ],
                 'exclude': [],
+            },
+            'size': {
+                'id': 3,
+                'code': 'C',
+                'size': '11-50',
             },
         },
     },
@@ -165,7 +171,7 @@ class Task(SnovBaseRequestBody):
     def get_task_id(self):
         self.set_industries_data()
         response = trypost('https://app.snov.io/new/company-profile-search/search', cookies=self.cookies, headers=self.headers, json=self.json_data)
-        return response
+        return response.json()
 
 
 if __name__ == "__main__":
