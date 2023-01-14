@@ -1,0 +1,50 @@
+{
+    "Process":
+    {
+        "Metal 3D Printing":{
+            "Technology":{
+                "Metal Binder Jetting":{
+                    "Material":{
+                        "Aluminum 2024":{
+                            "Finish":["Standard",
+                            "Black Anodize",
+                            "Black Hardcoat Anodize",
+                            "Blue Anodize",
+                            "Clear Anodize",
+                            "Clear Hardcoat Anodize",
+                            "Gold Anodize",
+                            "Gray Hardcoat Anodize",
+                            "Green Anodize",
+                            "Orange Anodize",
+                            "PTFE Impregnated Hard Anodize",
+                            "Purple Anodize",
+                            "Red Anodize",
+                            "Yellow Anodize",
+                            "Chem Film Clear",
+                            "Chem Film Gold",
+                            "Passivate",
+                            "Annealing",
+                            "Case Harden",
+                            "Temper",
+                            "Through Harden",
+                            "Bead Blast",
+                            "Tumbled",
+                            "Electroless Nickel Plating",
+                            "Gold Plating",
+                            "Silver Plating",
+                            "Zinc Plating",
+                            "Electropolish",
+                            "Powder Coating",
+                            "Electropolish",
+                            "Other"
+                        ]
+                        }
+                    }
+                }
+
+            }
+        }
+        "CNC":
+        
+    }
+}

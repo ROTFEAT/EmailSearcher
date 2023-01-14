@@ -1,0 +1,217 @@
+Plastic 3D Printing:
+  Carbon Digital Light Synthesis (DLS):
+    RPU 70:
+      Standard
+      Other
+    UMA 90:
+      Standard
+      Other
+    CE 221(Cyanate ester):
+      Standard
+      Other
+    EPX82:
+      Standard
+      Other
+    FPU50:
+      Standard
+      Other
+    EPU 40:
+      Standard
+      Other
+    SIL 30:
+      Standard
+      Other
+    Other:
+      Standard
+      Other
+  Fused Deposition Modeling (FDM):
+    Prototyping PLA(FFF):
+      Standard
+      Other
+    ABS or ASA, Next Available:
+      Standard
+      Other
+    ABS-ESD7:
+      Standard
+      Other
+    ABS-M30:
+      Standard
+      Other
+    ABS-M30i:
+      Standard
+      Other
+    ASA:
+      Standard
+      Other
+    Nylon 12:
+      Standard
+      Other
+    PC(Polycarbonate):
+      Standard
+      Other
+    PC or PC-ABS,Next available:
+      Standard
+      Other
+    PC-ABS:
+      Standard
+      Other
+    PC-ISO:
+      Standard
+      Other
+    Ultem 1010:
+      Standard
+      Other
+    Ultem 9085:
+      Standard
+      Other
+    Other:
+      Standard
+      Other
+  HP Multi Jet Fusion (MJF):
+    Nylon 11:
+      Standard
+      Vapor Smoothing
+      Other
+    Nylon 12:
+      Standard
+      Vapor Smoothing
+      Other
+    Nylon 12,Glass Bead Filled (GF):
+      Standard
+      Vapor Smoothing
+      Other
+    Polypropylene (PP):
+      Standard
+      Other
+    TPU 88A:
+      Standard
+      Vapor Smoothing
+      Other
+    Other:
+      Standard
+      Vapor Smoothing
+      Other
+  Polyjet:
+    Multi Material:
+      Standard
+      Other
+    Photopolymer, Rigid:
+      Standard
+      Other
+    Photopolymer,Rubber-like:
+      Standard
+      Other
+    Other:
+      Standard
+      Other
+  Selective Laser Sintering (SLS):
+    Nylon 12:
+      Standard
+      vapor Smoothing3
+      Media Tumbling
+      Nickel Plating
+      Other
+    Nylon 11 (EX):
+      Standard
+      Other
+    Nylon 12,Aluminum-Filled (AF):
+      Standard
+      Other
+    Nylon 12,Carbon-Filled (CF):
+      Standard
+      Media Tumbling
+      Other
+    Nylon 12, Flame Retardant (FR):
+      Standard
+      Media Tumbling
+      Other
+    Nylon 12,Glass Bead Filled (GF):
+      Standard
+      vapor Smoothing3
+      Media Tumbling
+      Nickel Plating
+      Other
+    Nylon 12,Mineral-Filled (HST):
+      Standard
+      Media Tumbling
+      Other
+  Stereolithography:
+    Accura 25:
+      Matte
+      Natural
+      strip and Ship
+      other
+
+    Accura ABS Black (SL 7820):
+      Matte
+      Natural
+      strip and Ship
+      other
+    Accura Xtreme Grey:
+      Matte
+      Natural
+      strip and Ship
+      other
+    Accura Xtreme White 200:
+      Matte
+      Natural
+      strip and Ship
+      other
+    Somos EvoLVe 128:
+      Matte
+      Natural
+      strip and Ship
+      other
+    Somos Taurus:
+      Matte
+      Natural
+      strip and Ship
+      other
+    Somos Watershed XC 11122:
+      Matte
+      Natural
+      strip and Ship
+      quick clear
+      other
+    Accura 48HTR:
+      Matte
+      Natural
+      strip and Ship
+      other
+    Accura 60:
+      Matte
+      Natural
+      strip and Ship
+      quick clear
+      other
+    Accura ClearVue:
+      Matte
+      Natural
+      strip and Ship
+      quick clear
+      other
+    Somos WaterClear Ultra 10122:
+      Matte
+      Natural
+      strip and Ship
+      other
+    Accura Bluestone:
+      Matte
+      Natural
+      strip and Ship
+      other
+    Somos PerFORM:
+      Matte
+      Natural
+      strip and Ship
+      other
+    Other:
+      Matte
+      Natural
+      strip and Ship
+      other
+
+
+
+
+

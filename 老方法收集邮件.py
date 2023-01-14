@@ -12,7 +12,7 @@ from RequestBody.utils.email_filter import *
 
 if __name__ == "__main__":
     countrylist = [
-    "United States", 
+    "United States",
     "United Kingdom",
     "Germany",
     "Canada",
@@ -58,13 +58,21 @@ if __name__ == "__main__":
         # "Agriculture, Construction, Mining Machinery Manufacturing",
         # "Medical Device",
         # "Transportation Equipment Manufacturing",
-        "Office Furniture and Fixtures Manufacturing",
-        "Electronic and Precision Equipment Maintenance",
-        "Commercial and Industrial Machinery Maintenance",
-        "Commercial and Service Industry Machinery Manufacturing",
-        "Agriculture, Construction, Mining Machinery Manufacturing",
-        "Medical Device",
-
+        # "Office Furniture and Fixtures Manufacturing",
+        # "Electronic and Precision Equipment Maintenance",
+        # "Commercial and Industrial Machinery Maintenance",
+        # "Commercial and Service Industry Machinery Manufacturing",
+        # "Agriculture, Construction, Mining Machinery Manufacturing",
+        # "Medical Device",
+        "Waste Treatment and Disposal",
+        "Water Supply and Irrigation Systems",
+        "Space Research and Technology",
+        "Mattress and Blinds Manufacturing",
+        "Electric Lighting Equipment Manufacturing",
+        "Boilers, Tanks, and Shipping Container Manufacturing",
+        "Audio and Video Equipment Manufacturing",
+        "Architectural and Structural Metal Manufacturing",
+        "Rail Transportation"
         ]
     company_count = 0
     for countrylist_instant in countrylist:
@@ -73,9 +81,9 @@ if __name__ == "__main__":
             m_industries = industrylist_instant
             task =  Task(locality=m_locality,industries=m_industries)
             taskid = task.get_task_id()['data']['taskId'] #获得id
-            print("------------------等待返回------------------")
+            print("------------------等待返回-------------------")
             print("地点：",m_locality,"   ","行业:",m_industries)
-            time.sleep(300)
+            time.sleep(180)
             
             # taskid = 78363
             cl = Companylist()
