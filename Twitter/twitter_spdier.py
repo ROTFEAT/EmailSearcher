@@ -34,7 +34,7 @@ from selenium.webdriver.common.keys import Keys
 
 if __name__ =="__main__":
     url = "https://www.twitter.com/"
-    foll_url = "https://twitter.com/HubsMFG/followers"
+    foll_url = "https://twitter.com/RAPIDDIRECT1/followers"
     # following_url = "https://twitter.com/HubsMFG/following"
     source = foll_url.replace("https://twitter.com/","").replace("/followers","")
     twitter_spider = Twitter_spider(url)
@@ -45,4 +45,5 @@ if __name__ =="__main__":
         twitter_spider.getfollowers()
         twitter_spider.broswer.execute_script('window.scrollBy(0,600)')
         time.sleep(1)
+        
     

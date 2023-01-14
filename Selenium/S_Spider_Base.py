@@ -62,11 +62,8 @@ class BaseSpider():
 
         #broswer就是通常的driver
     def useCookie(self,cookie_path,url = None):
-        # cookies = {
-        # }
-        # self.broswer.add_cookie()
 
-        # self.browser.get(self.url)
+
         # cookie_path  = 'xometory/cookies.json' 路径举例
         try:
             self.broswer.delete_all_cookies()
