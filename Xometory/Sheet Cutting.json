@@ -1,0 +1,1747 @@
+{
+    "Material": {
+        "Aluminum 5052 H32": {
+            "Finish": {
+                "Standard": {
+                    "Tolerance": {
+                        "+/-.005\"(+/-.127mm)": {}
+                    }
+                },
+                "Black Anodize": {
+                    "Tolerance": {
+                        "+/-.005\"(+/-.127mm)": {}
+                    }
+                },
+                "Black Hardcoat Anodize": {
+                    "Tolerance": {
+                        "+/-.005\"(+/-.127mm)": {}
+                    }
+                },
+                "Blue Anodize": {
+                    "Tolerance": {
+                        "+/-.005\"(+/-.127mm)": {}
+                    }
+                },
+                "Clear Anodize": {
+                    "Tolerance": {
+                        "+/-.005\"(+/-.127mm)": {}
+                    }
+                },
+                "Clear Hardcoat Anodize": {
+                    "Tolerance": {
+                        "+/-.005\"(+/-.127mm)": {}
+                    }
+                },
+                "Gold Anodize": {
+                    "Tolerance": {
+                        "+/-.005\"(+/-.127mm)": {}
+                    }
+                },
+                "Gray Hardcoat Anodize": {
+                    "Tolerance": {
+                        "+/-.005\"(+/-.127mm)": {}
+                    }
+                },
+                "Green Anodize": {
+                    "Tolerance": {
+                        "+/-.005\"(+/-.127mm)": {}
+                    }
+                },
+                "Orange Anodize": {
+                    "Tolerance": {
+                        "+/-.005\"(+/-.127mm)": {}
+                    }
+                },
+                "PTFE Impregnated Hard Anodize": {
+                    "Tolerance": {
+                        "+/-.005\"(+/-.127mm)": {}
+                    }
+                },
+                "Purple Anodize": {
+                    "Tolerance": {
+                        "+/-.005\"(+/-.127mm)": {}
+                    }
+                },
+                "Red Anodize": {
+                    "Tolerance": {
+                        "+/-.005\"(+/-.127mm)": {}
+                    }
+                },
+                "Titanium Anodize": {
+                    "Tolerance": {
+                        "+/-.005\"(+/-.127mm)": {}
+                    }
+                },
+                "Yellow Anodize": {
+                    "Tolerance": {
+                        "+/-.005\"(+/-.127mm)": {}
+                    }
+                },
+                "Black Oxide": {
+                    "Tolerance": {
+                        "+/-.005\"(+/-.127mm)": {}
+                    }
+                },
+                "Chem-film, Clear": {
+                    "Tolerance": {
+                        "+/-.005\"(+/-.127mm)": {}
+                    }
+                },
+                "Chem-film, Gold": {
+                    "Tolerance": {
+                        "+/-.005\"(+/-.127mm)": {}
+                    }
+                },
+                "Bead Blast": {
+                    "Tolerance": {
+                        "+/-.005\"(+/-.127mm)": {}
+                    }
+                },
+                "Tumbled": {
+                    "Tolerance": {
+                        "+/-.005\"(+/-.127mm)": {}
+                    }
+                },
+                "Electroless Nickel Plating": {
+                    "Tolerance": {
+                        "+/-.005\"(+/-.127mm)": {}
+                    }
+                },
+                "Gold Plating": {
+                    "Tolerance": {
+                        "+/-.005\"(+/-.127mm)": {}
+                    }
+                },
+                "Silver Plating": {
+                    "Tolerance": {
+                        "+/-.005\"(+/-.127mm)": {}
+                    }
+                },
+                "Zinc Plating": {
+                    "Tolerance": {
+                        "+/-.005\"(+/-.127mm)": {}
+                    }
+                },
+                "Powder Coating": {
+                    "Tolerance": {
+                        "+/-.005\"(+/-.127mm)": {}
+                    }
+                }
+            }
+        },
+        "Aluminum 6061 T6": {
+            "Finish": {
+                "Powder Coating": {
+                    "Tolerance": {
+                        "+/-.005\"(+/-.127mm)": {}
+                    }
+                }
+            }
+        },
+        "Aluminum 7075 T6": {
+            "Finish": {
+                "Powder Coating": {
+                    "Tolerance": {
+                        "+/-.005\"(+/-.127mm)": {}
+                    }
+                }
+            }
+        },
+        "Aluminum MIC6": {
+            "Finish": {
+                "Powder Coating": {
+                    "Tolerance": {
+                        "+/-.005\"(+/-.127mm)": {}
+                    }
+                }
+            }
+        },
+        "Brass 260": {
+            "Finish": {
+                "Standard": {
+                    "Tolerance": {
+                        "+/-.005\"(+/-.127mm)": {}
+                    }
+                },
+                "Bead Blast": {
+                    "Tolerance": {
+                        "+/-.005\"(+/-.127mm)": {}
+                    }
+                },
+                "Tumbled": {
+                    "Tolerance": {
+                        "+/-.005\"(+/-.127mm)": {}
+                    }
+                },
+                "Electroless Nickel Plating": {
+                    "Tolerance": {
+                        "+/-.005\"(+/-.127mm)": {}
+                    }
+                },
+                "Gold Plating": {
+                    "Tolerance": {
+                        "+/-.005\"(+/-.127mm)": {}
+                    }
+                },
+                "Silver Plating": {
+                    "Tolerance": {
+                        "+/-.005\"(+/-.127mm)": {}
+                    }
+                },
+                "Zinc Plating": {
+                    "Tolerance": {
+                        "+/-.005\"(+/-.127mm)": {}
+                    }
+                },
+                "Powder Coating": {
+                    "Tolerance": {
+                        "+/-.005\"(+/-.127mm)": {}
+                    }
+                }
+            }
+        },
+        "Carbon Fiber": {
+            "Finish": {
+                "Standard": {
+                    "Tolerance": {
+                        "+/-.005\"(+/-.127mm)": {}
+                    }
+                },
+                "Other": {
+                    "Tolerance": {
+                        "+/-.005\"(+/-.127mm)": {}
+                    }
+                }
+            }
+        },
+        "Copper 101, H00 to H01": {
+            "Finish": {
+                "Standard": {
+                    "Tolerance": {
+                        "+/-.005\"(+/-.127mm)": {}
+                    }
+                },
+                "Bead Blast": {
+                    "Tolerance": {
+                        "+/-.005\"(+/-.127mm)": {}
+                    }
+                },
+                "Tumbled": {
+                    "Tolerance": {
+                        "+/-.005\"(+/-.127mm)": {}
+                    }
+                },
+                "Electroless Nickel Plating": {
+                    "Tolerance": {
+                        "+/-.005\"(+/-.127mm)": {}
+                    }
+                },
+                "Gold Plating": {
+                    "Tolerance": {
+                        "+/-.005\"(+/-.127mm)": {}
+                    }
+                },
+                "Silver Plating": {
+                    "Tolerance": {
+                        "+/-.005\"(+/-.127mm)": {}
+                    }
+                },
+                "Zinc Plating": {
+                    "Tolerance": {
+                        "+/-.005\"(+/-.127mm)": {}
+                    }
+                },
+                "Other": {
+                    "Tolerance": {
+                        "+/-.005\"(+/-.127mm)": {}
+                    }
+                }
+            }
+        },
+        "Copper 110, Annealed": {
+            "Finish": {
+                "Standard": {
+                    "Tolerance": {
+                        "+/-.005\"(+/-.127mm)": {}
+                    }
+                }
+            }
+        },
+        "Copper 110, H02": {
+            "Finish": {
+                "Standard": {
+                    "Tolerance": {
+                        "+/-.005\"(+/-.127mm)": {}
+                    }
+                }
+            }
+        },
+        "Custom": {
+            "Finish": {
+                "Standard": {
+                    "Tolerance": {
+                        "+/-.005\"(+/-.127mm)": {}
+                    }
+                },
+                "Other": {
+                    "Tolerance": {
+                        "+/-.005\"(+/-.127mm)": {}
+                    }
+                }
+            }
+        },
+        "EVA Foam": {
+            "Finish": {
+                "Standard": {
+                    "Tolerance": {
+                        "+/-.005\"(+/-.127mm)": {}
+                    }
+                },
+                "Other": {
+                    "Tolerance": {
+                        "+/-.005\"(+/-.127mm)": {}
+                    }
+                }
+            }
+        },
+        "ABS Plastic White": {
+            "Finish": {
+                "Standard": {
+                    "Tolerance": {
+                        "+/-.005\"(+/-.127mm)": {}
+                    }
+                },
+                "Black Anodize": {
+                    "Tolerance": {
+                        "+/-.005\"(+/-.127mm)": {}
+                    }
+                },
+                "Black Hardcoat Anodize": {
+                    "Tolerance": {
+                        "+/-.005\"(+/-.127mm)": {}
+                    }
+                },
+                "Blue Anodize": {
+                    "Tolerance": {
+                        "+/-.005\"(+/-.127mm)": {}
+                    }
+                },
+                "Clear Anodize": {
+                    "Tolerance": {
+                        "+/-.005\"(+/-.127mm)": {}
+                    }
+                },
+                "Clear Hardcoat Anodize": {
+                    "Tolerance": {
+                        "+/-.005\"(+/-.127mm)": {}
+                    }
+                },
+                "Gold Anodize": {
+                    "Tolerance": {
+                        "+/-.005\"(+/-.127mm)": {}
+                    }
+                },
+                "Gray Hardcoat Anodize": {
+                    "Tolerance": {
+                        "+/-.005\"(+/-.127mm)": {}
+                    }
+                },
+                "Orange Anodize": {
+                    "Tolerance": {
+                        "+/-.005\"(+/-.127mm)": {}
+                    }
+                },
+                "PTFE Impregnated Hard Anodize": {
+                    "Tolerance": {
+                        "+/-.005\"(+/-.127mm)": {}
+                    }
+                },
+                "Purple Anodize": {
+                    "Tolerance": {
+                        "+/-.005\"(+/-.127mm)": {}
+                    }
+                },
+                "Red Anodize": {
+                    "Tolerance": {
+                        "+/-.005\"(+/-.127mm)": {}
+                    }
+                },
+                "Titanium Anodize": {
+                    "Tolerance": {
+                        "+/-.005\"(+/-.127mm)": {}
+                    }
+                },
+                "Yellow Anodize": {
+                    "Tolerance": {
+                        "+/-.005\"(+/-.127mm)": {}
+                    }
+                },
+                "Black Oxide": {
+                    "Tolerance": {
+                        "+/-.005\"(+/-.127mm)": {}
+                    }
+                },
+                "Chem-film, Clear": {
+                    "Tolerance": {
+                        "+/-.005\"(+/-.127mm)": {}
+                    }
+                },
+                "Chem-film, Gold": {
+                    "Tolerance": {
+                        "+/-.005\"(+/-.127mm)": {}
+                    }
+                },
+                "Passivate": {
+                    "Tolerance": {
+                        "+/-.005\"(+/-.127mm)": {}
+                    }
+                },
+                "Annealing": {
+                    "Tolerance": {
+                        "+/-.005\"(+/-.127mm)": {}
+                    }
+                },
+                "Case Harden": {
+                    "Tolerance": {
+                        "+/-.005\"(+/-.127mm)": {}
+                    }
+                },
+                "Bead Blast": {
+                    "Tolerance": {
+                        "+/-.005\"(+/-.127mm)": {}
+                    }
+                },
+                "Tumbled": {
+                    "Tolerance": {
+                        "+/-.005\"(+/-.127mm)": {}
+                    }
+                },
+                "Electroless Nickel Plating": {
+                    "Tolerance": {
+                        "+/-.005\"(+/-.127mm)": {}
+                    }
+                },
+                "Gold Plating": {
+                    "Tolerance": {
+                        "+/-.005\"(+/-.127mm)": {}
+                    }
+                },
+                "Silver Plating": {
+                    "Tolerance": {
+                        "+/-.005\"(+/-.127mm)": {}
+                    }
+                },
+                "Zinc Plating": {
+                    "Tolerance": {
+                        "+/-.005\"(+/-.127mm)": {}
+                    }
+                },
+                "Electropolish": {
+                    "Tolerance": {
+                        "+/-.005\"(+/-.127mm)": {}
+                    }
+                },
+                "Powder Coating": {
+                    "Tolerance": {
+                        "+/-.005\"(+/-.127mm)": {}
+                    }
+                },
+                "Other": {
+                    "Tolerance": {
+                        "+/-.005\"(+/-.127mm)": {}
+                    }
+                }
+            }
+        },
+        "ABS": {
+            "Finish": {
+                "Standard": {
+                    "Tolerance": {
+                        "+/-.005\"(+/-.127mm)": {}
+                    }
+                },
+                "Other": {
+                    "Tolerance": {
+                        "+/-.005\"(+/-.127mm)": {}
+                    }
+                }
+            }
+        },
+        "Acetal": {
+            "Finish": {
+                "Standard": {
+                    "Tolerance": {
+                        "+/-.005\"(+/-.127mm)": {}
+                    }
+                },
+                "Other": {
+                    "Tolerance": {
+                        "+/-.005\"(+/-.127mm)": {}
+                    }
+                }
+            }
+        },
+        "Acrylic": {
+            "Finish": {
+                "Standard": {
+                    "Tolerance": {
+                        "+/-.005\"(+/-.127mm)": {}
+                    }
+                },
+                "Other": {
+                    "Tolerance": {
+                        "+/-.005\"(+/-.127mm)": {}
+                    }
+                }
+            }
+        },
+        "HDPE": {
+            "Finish": {
+                "Standard": {
+                    "Tolerance": {
+                        "+/-.005\"(+/-.127mm)": {}
+                    }
+                },
+                "Other": {
+                    "Tolerance": {
+                        "+/-.005\"(+/-.127mm)": {}
+                    }
+                }
+            }
+        },
+        "PETG Plastic": {
+            "Finish": {
+                "Standard": {
+                    "Tolerance": {
+                        "+/-.005\"(+/-.127mm)": {}
+                    }
+                },
+                "Other": {
+                    "Tolerance": {
+                        "+/-.005\"(+/-.127mm)": {}
+                    }
+                }
+            }
+        },
+        "Polycarbonate": {
+            "Finish": {
+                "Standard": {
+                    "Tolerance": {
+                        "+/-.005\"(+/-.127mm)": {}
+                    }
+                },
+                "Other": {
+                    "Tolerance": {
+                        "+/-.005\"(+/-.127mm)": {}
+                    }
+                }
+            }
+        },
+        "Polypropylene": {
+            "Finish": {
+                "Standard": {
+                    "Tolerance": {
+                        "+/-.005\"(+/-.127mm)": {}
+                    }
+                },
+                "Other": {
+                    "Tolerance": {
+                        "+/-.005\"(+/-.127mm)": {}
+                    }
+                }
+            }
+        },
+        "UHMW-PE": {
+            "Finish": {
+                "Standard": {
+                    "Tolerance": {
+                        "+/-.005\"(+/-.127mm)": {}
+                    }
+                },
+                "Electroless Nickel Plating": {
+                    "Tolerance": {
+                        "+/-.005\"(+/-.127mm)": {}
+                    }
+                },
+                "Gold Plating": {
+                    "Tolerance": {
+                        "+/-.005\"(+/-.127mm)": {}
+                    }
+                },
+                "Silver Plating": {
+                    "Tolerance": {
+                        "+/-.005\"(+/-.127mm)": {}
+                    }
+                },
+                "Zinc Plating": {
+                    "Tolerance": {
+                        "+/-.005\"(+/-.127mm)": {}
+                    }
+                },
+                "Other": {
+                    "Tolerance": {
+                        "+/-.005\"(+/-.127mm)": {}
+                    }
+                }
+            }
+        },
+        "Buna-N Rubber": {
+            "Finish": {
+                "Standard": {
+                    "Tolerance": {
+                        "+/-.005\"(+/-.127mm)": {}
+                    }
+                },
+                "Other": {
+                    "Tolerance": {
+                        "+/-.005\"(+/-.127mm)": {}
+                    }
+                }
+            }
+        },
+        "Cork and Buna-N Blend": {
+            "Finish": {
+                "Standard": {
+                    "Tolerance": {
+                        "+/-.005\"(+/-.127mm)": {}
+                    }
+                },
+                "Other": {
+                    "Tolerance": {
+                        "+/-.005\"(+/-.127mm)": {}
+                    }
+                }
+            }
+        },
+        "High Temp Silicone Rubber, Adhesive-Backed": {
+            "Finish": {
+                "Standard": {
+                    "Tolerance": {
+                        "+/-.005\"(+/-.127mm)": {}
+                    }
+                }
+            }
+        },
+        "High Temp Silicone Rubber": {
+            "Finish": {
+                "Standard": {
+                    "Tolerance": {
+                        "+/-.005\"(+/-.127mm)": {}
+                    }
+                },
+                "Other": {
+                    "Tolerance": {
+                        "+/-.005\"(+/-.127mm)": {}
+                    }
+                }
+            }
+        },
+        "Paper Fiber and Buna-N Blend": {
+            "Finish": {
+                "Standard": {
+                    "Tolerance": {
+                        "+/-.005\"(+/-.127mm)": {}
+                    }
+                },
+                "Other": {
+                    "Tolerance": {
+                        "+/-.005\"(+/-.127mm)": {}
+                    }
+                }
+            }
+        },
+        "Stainless Steel 304": {
+            "Finish": {
+                "Standard": {
+                    "Tolerance": {
+                        "+/-.005\"(+/-.127mm)": {}
+                    }
+                },
+                "Black Oxide": {
+                    "Tolerance": {
+                        "+/-.005\"(+/-.127mm)": {}
+                    }
+                },
+                "Passivate": {
+                    "Tolerance": {
+                        "+/-.005\"(+/-.127mm)": {}
+                    }
+                },
+                "Annealing": {
+                    "Tolerance": {
+                        "+/-.005\"(+/-.127mm)": {}
+                    }
+                },
+                "Bead Blast": {
+                    "Tolerance": {
+                        "+/-.005\"(+/-.127mm)": {}
+                    }
+                },
+                "Tumbled": {
+                    "Tolerance": {
+                        "+/-.005\"(+/-.127mm)": {}
+                    }
+                },
+                "Electroless Nickel Plating": {
+                    "Tolerance": {
+                        "+/-.005\"(+/-.127mm)": {}
+                    }
+                },
+                "Gold Plating": {
+                    "Tolerance": {
+                        "+/-.005\"(+/-.127mm)": {}
+                    }
+                },
+                "Silver Plating": {
+                    "Tolerance": {
+                        "+/-.005\"(+/-.127mm)": {}
+                    }
+                },
+                "Zinc Plating": {
+                    "Tolerance": {
+                        "+/-.005\"(+/-.127mm)": {}
+                    }
+                },
+                "Powder Coating": {
+                    "Tolerance": {
+                        "+/-.005\"(+/-.127mm)": {}
+                    }
+                }
+            }
+        },
+        "Stainless Steel 316": {
+            "Finish": {
+                "Standard": {
+                    "Tolerance": {
+                        "+/-.005\"(+/-.127mm)": {}
+                    }
+                },
+                "Black Oxide": {
+                    "Tolerance": {
+                        "+/-.005\"(+/-.127mm)": {}
+                    }
+                },
+                "Passivate": {
+                    "Tolerance": {
+                        "+/-.005\"(+/-.127mm)": {}
+                    }
+                },
+                "Annealing": {
+                    "Tolerance": {
+                        "+/-.005\"(+/-.127mm)": {}
+                    }
+                },
+                "Bead Blast": {
+                    "Tolerance": {
+                        "+/-.005\"(+/-.127mm)": {}
+                    }
+                },
+                "Tumbled": {
+                    "Tolerance": {
+                        "+/-.005\"(+/-.127mm)": {}
+                    }
+                },
+                "Electroless Nickel Plating": {
+                    "Tolerance": {
+                        "+/-.005\"(+/-.127mm)": {}
+                    }
+                },
+                "Gold Plating": {
+                    "Tolerance": {
+                        "+/-.005\"(+/-.127mm)": {}
+                    }
+                },
+                "Silver Plating": {
+                    "Tolerance": {
+                        "+/-.005\"(+/-.127mm)": {}
+                    }
+                },
+                "Zinc Plating": {
+                    "Tolerance": {
+                        "+/-.005\"(+/-.127mm)": {}
+                    }
+                },
+                "Powder Coating": {
+                    "Tolerance": {
+                        "+/-.005\"(+/-.127mm)": {}
+                    }
+                }
+            }
+        },
+        "Stainless Steel 316 shim, annealed": {
+            "Finish": {
+                "Standard": {
+                    "Tolerance": {
+                        "+/-.005\"(+/-.127mm)": {}
+                    }
+                },
+                "Black Oxide": {
+                    "Tolerance": {
+                        "+/-.005\"(+/-.127mm)": {}
+                    }
+                },
+                "Passivate": {
+                    "Tolerance": {
+                        "+/-.005\"(+/-.127mm)": {}
+                    }
+                },
+                "Annealing": {
+                    "Tolerance": {
+                        "+/-.005\"(+/-.127mm)": {}
+                    }
+                },
+                "Bead Blast": {
+                    "Tolerance": {
+                        "+/-.005\"(+/-.127mm)": {}
+                    }
+                },
+                "Tumbled": {
+                    "Tolerance": {
+                        "+/-.005\"(+/-.127mm)": {}
+                    }
+                },
+                "Electroless Nickel Plating": {
+                    "Tolerance": {
+                        "+/-.005\"(+/-.127mm)": {}
+                    }
+                },
+                "Gold Plating": {
+                    "Tolerance": {
+                        "+/-.005\"(+/-.127mm)": {}
+                    }
+                },
+                "Silver Plating": {
+                    "Tolerance": {
+                        "+/-.005\"(+/-.127mm)": {}
+                    }
+                },
+                "Zinc Plating": {
+                    "Tolerance": {
+                        "+/-.005\"(+/-.127mm)": {}
+                    }
+                },
+                "Powder Coating": {
+                    "Tolerance": {
+                        "+/-.005\"(+/-.127mm)": {}
+                    }
+                }
+            }
+        },
+        "4130 chrome-moly steel, annealed": {
+            "Finish": {
+                "Standard": {
+                    "Tolerance": {
+                        "+/-.005\"(+/-.127mm)": {}
+                    }
+                },
+                "Annealing": {
+                    "Tolerance": {
+                        "+/-.005\"(+/-.127mm)": {}
+                    }
+                },
+                "Bead Blast": {
+                    "Tolerance": {
+                        "+/-.005\"(+/-.127mm)": {}
+                    }
+                },
+                "Tumbled": {
+                    "Tolerance": {
+                        "+/-.005\"(+/-.127mm)": {}
+                    }
+                },
+                "Electroless Nickel Plating": {
+                    "Tolerance": {
+                        "+/-.005\"(+/-.127mm)": {}
+                    }
+                },
+                "Gold Plating": {
+                    "Tolerance": {
+                        "+/-.005\"(+/-.127mm)": {}
+                    }
+                },
+                "Silver Plating": {
+                    "Tolerance": {
+                        "+/-.005\"(+/-.127mm)": {}
+                    }
+                },
+                "Zinc Plating": {
+                    "Tolerance": {
+                        "+/-.005\"(+/-.127mm)": {}
+                    }
+                },
+                "Powder Coating": {
+                    "Tolerance": {
+                        "+/-.005\"(+/-.127mm)": {}
+                    }
+                }
+            }
+        },
+        "AR400 Steel, hardened": {
+            "Finish": {
+                "Standard": {
+                    "Tolerance": {
+                        "+/-.005\"(+/-.127mm)": {}
+                    }
+                },
+                "Annealing": {
+                    "Tolerance": {
+                        "+/-.005\"(+/-.127mm)": {}
+                    }
+                },
+                "Case Harden": {
+                    "Tolerance": {
+                        "+/-.005\"(+/-.127mm)": {}
+                    }
+                },
+                "Bead Blast": {
+                    "Tolerance": {
+                        "+/-.005\"(+/-.127mm)": {}
+                    }
+                },
+                "Tumbled": {
+                    "Tolerance": {
+                        "+/-.005\"(+/-.127mm)": {}
+                    }
+                },
+                "Electroless Nickel Plating": {
+                    "Tolerance": {
+                        "+/-.005\"(+/-.127mm)": {}
+                    }
+                },
+                "Gold Plating": {
+                    "Tolerance": {
+                        "+/-.005\"(+/-.127mm)": {}
+                    }
+                },
+                "Silver Plating": {
+                    "Tolerance": {
+                        "+/-.005\"(+/-.127mm)": {}
+                    }
+                },
+                "Zinc Plating": {
+                    "Tolerance": {
+                        "+/-.005\"(+/-.127mm)": {}
+                    }
+                },
+                "Powder Coating": {
+                    "Tolerance": {
+                        "+/-.005\"(+/-.127mm)": {}
+                    }
+                }
+            }
+        },
+        "AR500 Steel, hardened": {
+            "Finish": {
+                "Standard": {
+                    "Tolerance": {
+                        "+/-.005\"(+/-.127mm)": {}
+                    }
+                },
+                "Annealing": {
+                    "Tolerance": {
+                        "+/-.005\"(+/-.127mm)": {}
+                    }
+                },
+                "Case Harden": {
+                    "Tolerance": {
+                        "+/-.005\"(+/-.127mm)": {}
+                    }
+                },
+                "Bead Blast": {
+                    "Tolerance": {
+                        "+/-.005\"(+/-.127mm)": {}
+                    }
+                },
+                "Tumbled": {
+                    "Tolerance": {
+                        "+/-.005\"(+/-.127mm)": {}
+                    }
+                },
+                "Electroless Nickel Plating": {
+                    "Tolerance": {
+                        "+/-.005\"(+/-.127mm)": {}
+                    }
+                },
+                "Gold Plating": {
+                    "Tolerance": {
+                        "+/-.005\"(+/-.127mm)": {}
+                    }
+                },
+                "Silver Plating": {
+                    "Tolerance": {
+                        "+/-.005\"(+/-.127mm)": {}
+                    }
+                },
+                "Zinc Plating": {
+                    "Tolerance": {
+                        "+/-.005\"(+/-.127mm)": {}
+                    }
+                },
+                "Powder Coating": {
+                    "Tolerance": {
+                        "+/-.005\"(+/-.127mm)": {}
+                    }
+                }
+            }
+        },
+        "Hot Rolled Steel 1045": {
+            "Finish": {
+                "Standard": {
+                    "Tolerance": {
+                        "+/-.005\"(+/-.127mm)": {}
+                    }
+                },
+                "Annealing": {
+                    "Tolerance": {
+                        "+/-.005\"(+/-.127mm)": {}
+                    }
+                },
+                "Case Harden": {
+                    "Tolerance": {
+                        "+/-.005\"(+/-.127mm)": {}
+                    }
+                },
+                "Bead Blast": {
+                    "Tolerance": {
+                        "+/-.005\"(+/-.127mm)": {}
+                    }
+                },
+                "Tumbled": {
+                    "Tolerance": {
+                        "+/-.005\"(+/-.127mm)": {}
+                    }
+                },
+                "Electroless Nickel Plating": {
+                    "Tolerance": {
+                        "+/-.005\"(+/-.127mm)": {}
+                    }
+                },
+                "Gold Plating": {
+                    "Tolerance": {
+                        "+/-.005\"(+/-.127mm)": {}
+                    }
+                },
+                "Silver Plating": {
+                    "Tolerance": {
+                        "+/-.005\"(+/-.127mm)": {}
+                    }
+                },
+                "Zinc Plating": {
+                    "Tolerance": {
+                        "+/-.005\"(+/-.127mm)": {}
+                    }
+                },
+                "Powder Coating": {
+                    "Tolerance": {
+                        "+/-.005\"(+/-.127mm)": {}
+                    }
+                }
+            }
+        },
+        "Hot Rolled Steel A569/ASTM A1011": {
+            "Finish": {
+                "Standard": {
+                    "Tolerance": {
+                        "+/-.005\"(+/-.127mm)": {}
+                    }
+                },
+                "Annealing": {
+                    "Tolerance": {
+                        "+/-.005\"(+/-.127mm)": {}
+                    }
+                },
+                "Case Harden": {
+                    "Tolerance": {
+                        "+/-.005\"(+/-.127mm)": {}
+                    }
+                },
+                "Bead Blast": {
+                    "Tolerance": {
+                        "+/-.005\"(+/-.127mm)": {}
+                    }
+                },
+                "Tumbled": {
+                    "Tolerance": {
+                        "+/-.005\"(+/-.127mm)": {}
+                    }
+                },
+                "Electroless Nickel Plating": {
+                    "Tolerance": {
+                        "+/-.005\"(+/-.127mm)": {}
+                    }
+                },
+                "Gold Plating": {
+                    "Tolerance": {
+                        "+/-.005\"(+/-.127mm)": {}
+                    }
+                },
+                "Silver Plating": {
+                    "Tolerance": {
+                        "+/-.005\"(+/-.127mm)": {}
+                    }
+                },
+                "Zinc Plating": {
+                    "Tolerance": {
+                        "+/-.005\"(+/-.127mm)": {}
+                    }
+                },
+                "Powder Coating": {
+                    "Tolerance": {
+                        "+/-.005\"(+/-.127mm)": {}
+                    }
+                }
+            }
+        },
+        "Steel 1018": {
+            "Finish": {
+                "Standard": {
+                    "Tolerance": {
+                        "+/-.005\"(+/-.127mm)": {}
+                    }
+                },
+                "Annealing": {
+                    "Tolerance": {
+                        "+/-.005\"(+/-.127mm)": {}
+                    }
+                },
+                "Case Harden": {
+                    "Tolerance": {
+                        "+/-.005\"(+/-.127mm)": {}
+                    }
+                },
+                "Bead Blast": {
+                    "Tolerance": {
+                        "+/-.005\"(+/-.127mm)": {}
+                    }
+                },
+                "Tumbled": {
+                    "Tolerance": {
+                        "+/-.005\"(+/-.127mm)": {}
+                    }
+                },
+                "Electroless Nickel Plating": {
+                    "Tolerance": {
+                        "+/-.005\"(+/-.127mm)": {}
+                    }
+                },
+                "Gold Plating": {
+                    "Tolerance": {
+                        "+/-.005\"(+/-.127mm)": {}
+                    }
+                },
+                "Silver Plating": {
+                    "Tolerance": {
+                        "+/-.005\"(+/-.127mm)": {}
+                    }
+                },
+                "Zinc Plating": {
+                    "Tolerance": {
+                        "+/-.005\"(+/-.127mm)": {}
+                    }
+                },
+                "Powder Coating": {
+                    "Tolerance": {
+                        "+/-.005\"(+/-.127mm)": {}
+                    }
+                }
+            }
+        },
+        "Steel 4140": {
+            "Finish": {
+                "Standard": {
+                    "Tolerance": {
+                        "+/-.005\"(+/-.127mm)": {}
+                    }
+                },
+                "Annealing": {
+                    "Tolerance": {
+                        "+/-.005\"(+/-.127mm)": {}
+                    }
+                },
+                "Case Harden": {
+                    "Tolerance": {
+                        "+/-.005\"(+/-.127mm)": {}
+                    }
+                },
+                "Bead Blast": {
+                    "Tolerance": {
+                        "+/-.005\"(+/-.127mm)": {}
+                    }
+                },
+                "Tumbled": {
+                    "Tolerance": {
+                        "+/-.005\"(+/-.127mm)": {}
+                    }
+                },
+                "Electroless Nickel Plating": {
+                    "Tolerance": {
+                        "+/-.005\"(+/-.127mm)": {}
+                    }
+                },
+                "Gold Plating": {
+                    "Tolerance": {
+                        "+/-.005\"(+/-.127mm)": {}
+                    }
+                },
+                "Silver Plating": {
+                    "Tolerance": {
+                        "+/-.005\"(+/-.127mm)": {}
+                    }
+                },
+                "Zinc Plating": {
+                    "Tolerance": {
+                        "+/-.005\"(+/-.127mm)": {}
+                    }
+                },
+                "Powder Coating": {
+                    "Tolerance": {
+                        "+/-.005\"(+/-.127mm)": {}
+                    }
+                }
+            }
+        },
+        "Steel A36": {
+            "Finish": {
+                "Standard": {
+                    "Tolerance": {
+                        "+/-.005\"(+/-.127mm)": {}
+                    }
+                },
+                "Annealing": {
+                    "Tolerance": {
+                        "+/-.005\"(+/-.127mm)": {}
+                    }
+                },
+                "Case Harden": {
+                    "Tolerance": {
+                        "+/-.005\"(+/-.127mm)": {}
+                    }
+                },
+                "Bead Blast": {
+                    "Tolerance": {
+                        "+/-.005\"(+/-.127mm)": {}
+                    }
+                },
+                "Tumbled": {
+                    "Tolerance": {
+                        "+/-.005\"(+/-.127mm)": {}
+                    }
+                },
+                "Electroless Nickel Plating": {
+                    "Tolerance": {
+                        "+/-.005\"(+/-.127mm)": {}
+                    }
+                },
+                "Gold Plating": {
+                    "Tolerance": {
+                        "+/-.005\"(+/-.127mm)": {}
+                    }
+                },
+                "Silver Plating": {
+                    "Tolerance": {
+                        "+/-.005\"(+/-.127mm)": {}
+                    }
+                },
+                "Zinc Plating": {
+                    "Tolerance": {
+                        "+/-.005\"(+/-.127mm)": {}
+                    }
+                },
+                "Powder Coating": {
+                    "Tolerance": {
+                        "+/-.005\"(+/-.127mm)": {}
+                    }
+                }
+            }
+        },
+        "Steel A36, pickled and oiled": {
+            "Finish": {
+                "Standard": {
+                    "Tolerance": {
+                        "+/-.005\"(+/-.127mm)": {}
+                    }
+                },
+                "Annealing": {
+                    "Tolerance": {
+                        "+/-.005\"(+/-.127mm)": {}
+                    }
+                },
+                "Case Harden": {
+                    "Tolerance": {
+                        "+/-.005\"(+/-.127mm)": {}
+                    }
+                },
+                "Bead Blast": {
+                    "Tolerance": {
+                        "+/-.005\"(+/-.127mm)": {}
+                    }
+                },
+                "Tumbled": {
+                    "Tolerance": {
+                        "+/-.005\"(+/-.127mm)": {}
+                    }
+                },
+                "Electroless Nickel Plating": {
+                    "Tolerance": {
+                        "+/-.005\"(+/-.127mm)": {}
+                    }
+                },
+                "Gold Plating": {
+                    "Tolerance": {
+                        "+/-.005\"(+/-.127mm)": {}
+                    }
+                },
+                "Silver Plating": {
+                    "Tolerance": {
+                        "+/-.005\"(+/-.127mm)": {}
+                    }
+                },
+                "Zinc Plating": {
+                    "Tolerance": {
+                        "+/-.005\"(+/-.127mm)": {}
+                    }
+                },
+                "Powder Coating": {
+                    "Tolerance": {
+                        "+/-.005\"(+/-.127mm)": {}
+                    }
+                }
+            }
+        },
+        "Steel A366/1008": {
+            "Finish": {
+                "Standard": {
+                    "Tolerance": {
+                        "+/-.005\"(+/-.127mm)": {}
+                    }
+                },
+                "Annealing": {
+                    "Tolerance": {
+                        "+/-.005\"(+/-.127mm)": {}
+                    }
+                },
+                "Case Harden": {
+                    "Tolerance": {
+                        "+/-.005\"(+/-.127mm)": {}
+                    }
+                },
+                "Bead Blast": {
+                    "Tolerance": {
+                        "+/-.005\"(+/-.127mm)": {}
+                    }
+                },
+                "Tumbled": {
+                    "Tolerance": {
+                        "+/-.005\"(+/-.127mm)": {}
+                    }
+                },
+                "Electroless Nickel Plating": {
+                    "Tolerance": {
+                        "+/-.005\"(+/-.127mm)": {}
+                    }
+                },
+                "Gold Plating": {
+                    "Tolerance": {
+                        "+/-.005\"(+/-.127mm)": {}
+                    }
+                },
+                "Silver Plating": {
+                    "Tolerance": {
+                        "+/-.005\"(+/-.127mm)": {}
+                    }
+                },
+                "Zinc Plating": {
+                    "Tolerance": {
+                        "+/-.005\"(+/-.127mm)": {}
+                    }
+                },
+                "Powder Coating": {
+                    "Tolerance": {
+                        "+/-.005\"(+/-.127mm)": {}
+                    }
+                }
+            }
+        },
+        "Tool Steel D2, annealed": {
+            "Finish": {
+                "Standard": {
+                    "Tolerance": {
+                        "+/-.005\"(+/-.127mm)": {}
+                    }
+                },
+                "Annealing": {
+                    "Tolerance": {
+                        "+/-.005\"(+/-.127mm)": {}
+                    }
+                },
+                "Case Harden": {
+                    "Tolerance": {
+                        "+/-.005\"(+/-.127mm)": {}
+                    }
+                },
+                "Bead Blast": {
+                    "Tolerance": {
+                        "+/-.005\"(+/-.127mm)": {}
+                    }
+                },
+                "Tumbled": {
+                    "Tolerance": {
+                        "+/-.005\"(+/-.127mm)": {}
+                    }
+                },
+                "Electroless Nickel Plating": {
+                    "Tolerance": {
+                        "+/-.005\"(+/-.127mm)": {}
+                    }
+                },
+                "Gold Plating": {
+                    "Tolerance": {
+                        "+/-.005\"(+/-.127mm)": {}
+                    }
+                },
+                "Silver Plating": {
+                    "Tolerance": {
+                        "+/-.005\"(+/-.127mm)": {}
+                    }
+                },
+                "Zinc Plating": {
+                    "Tolerance": {
+                        "+/-.005\"(+/-.127mm)": {}
+                    }
+                },
+                "Powder Coating": {
+                    "Tolerance": {
+                        "+/-.005\"(+/-.127mm)": {}
+                    }
+                }
+            }
+        },
+        "Tool Steel O1, annealed": {
+            "Finish": {
+                "Standard": {
+                    "Tolerance": {
+                        "+/-.005\"(+/-.127mm)": {}
+                    }
+                },
+                "Annealing": {
+                    "Tolerance": {
+                        "+/-.005\"(+/-.127mm)": {}
+                    }
+                },
+                "Case Harden": {
+                    "Tolerance": {
+                        "+/-.005\"(+/-.127mm)": {}
+                    }
+                },
+                "Bead Blast": {
+                    "Tolerance": {
+                        "+/-.005\"(+/-.127mm)": {}
+                    }
+                },
+                "Tumbled": {
+                    "Tolerance": {
+                        "+/-.005\"(+/-.127mm)": {}
+                    }
+                },
+                "Electroless Nickel Plating": {
+                    "Tolerance": {
+                        "+/-.005\"(+/-.127mm)": {}
+                    }
+                },
+                "Gold Plating": {
+                    "Tolerance": {
+                        "+/-.005\"(+/-.127mm)": {}
+                    }
+                },
+                "Silver Plating": {
+                    "Tolerance": {
+                        "+/-.005\"(+/-.127mm)": {}
+                    }
+                },
+                "Zinc Plating": {
+                    "Tolerance": {
+                        "+/-.005\"(+/-.127mm)": {}
+                    }
+                },
+                "Powder Coating": {
+                    "Tolerance": {
+                        "+/-.005\"(+/-.127mm)": {}
+                    }
+                }
+            }
+        },
+        "Titanium (Grade 2)": {
+            "Finish": {
+                "Standard": {
+                    "Tolerance": {
+                        "+/-.005\"(+/-.127mm)": {}
+                    }
+                },
+                "Annealing": {
+                    "Tolerance": {
+                        "+/-.005\"(+/-.127mm)": {}
+                    }
+                },
+                "Case Harden": {
+                    "Tolerance": {
+                        "+/-.005\"(+/-.127mm)": {}
+                    }
+                },
+                "Bead Blast": {
+                    "Tolerance": {
+                        "+/-.005\"(+/-.127mm)": {}
+                    }
+                },
+                "Tumbled": {
+                    "Tolerance": {
+                        "+/-.005\"(+/-.127mm)": {}
+                    }
+                },
+                "Electroless Nickel Plating": {
+                    "Tolerance": {
+                        "+/-.005\"(+/-.127mm)": {}
+                    }
+                },
+                "Gold Plating": {
+                    "Tolerance": {
+                        "+/-.005\"(+/-.127mm)": {}
+                    }
+                },
+                "Silver Plating": {
+                    "Tolerance": {
+                        "+/-.005\"(+/-.127mm)": {}
+                    }
+                },
+                "Zinc Plating": {
+                    "Tolerance": {
+                        "+/-.005\"(+/-.127mm)": {}
+                    }
+                },
+                "Powder Coating": {
+                    "Tolerance": {
+                        "+/-.005\"(+/-.127mm)": {}
+                    }
+                }
+            }
+        },
+        "Titanium 6Al-4V (Grade 5)": {
+            "Finish": {
+                "Standard": {
+                    "Tolerance": {
+                        "+/-.005\"(+/-.127mm)": {}
+                    }
+                },
+                "Annealing": {
+                    "Tolerance": {
+                        "+/-.005\"(+/-.127mm)": {}
+                    }
+                },
+                "Case Harden": {
+                    "Tolerance": {
+                        "+/-.005\"(+/-.127mm)": {}
+                    }
+                },
+                "Bead Blast": {
+                    "Tolerance": {
+                        "+/-.005\"(+/-.127mm)": {}
+                    }
+                },
+                "Tumbled": {
+                    "Tolerance": {
+                        "+/-.005\"(+/-.127mm)": {}
+                    }
+                },
+                "Electroless Nickel Plating": {
+                    "Tolerance": {
+                        "+/-.005\"(+/-.127mm)": {}
+                    }
+                },
+                "Gold Plating": {
+                    "Tolerance": {
+                        "+/-.005\"(+/-.127mm)": {}
+                    }
+                },
+                "Silver Plating": {
+                    "Tolerance": {
+                        "+/-.005\"(+/-.127mm)": {}
+                    }
+                },
+                "Zinc Plating": {
+                    "Tolerance": {
+                        "+/-.005\"(+/-.127mm)": {}
+                    }
+                },
+                "Powder Coating": {
+                    "Tolerance": {
+                        "+/-.005\"(+/-.127mm)": {}
+                    }
+                }
+            }
+        },
+        "Cherry Wood": {
+            "Finish": {
+                "Standard": {
+                    "Tolerance": {
+                        "+/-.005\"(+/-.127mm)": {}
+                    }
+                },
+                "Black Anodize": {
+                    "Tolerance": {
+                        "+/-.005\"(+/-.127mm)": {}
+                    }
+                },
+                "Black Hardcoat Anodize": {
+                    "Tolerance": {
+                        "+/-.005\"(+/-.127mm)": {}
+                    }
+                },
+                "Blue Anodize": {
+                    "Tolerance": {
+                        "+/-.005\"(+/-.127mm)": {}
+                    }
+                },
+                "Clear Anodize": {
+                    "Tolerance": {
+                        "+/-.005\"(+/-.127mm)": {}
+                    }
+                },
+                "Clear Hardcoat Anodize": {
+                    "Tolerance": {
+                        "+/-.005\"(+/-.127mm)": {}
+                    }
+                },
+                "Gold Anodize": {
+                    "Tolerance": {
+                        "+/-.005\"(+/-.127mm)": {}
+                    }
+                },
+                "Gray Hardcoat Anodize": {
+                    "Tolerance": {
+                        "+/-.005\"(+/-.127mm)": {}
+                    }
+                },
+                "Silver Plating": {
+                    "Tolerance": {
+                        "+/-.005\"(+/-.127mm)": {}
+                    }
+                },
+                "Zinc Plating": {
+                    "Tolerance": {
+                        "+/-.005\"(+/-.127mm)": {}
+                    }
+                },
+                "Electropolish": {
+                    "Tolerance": {
+                        "+/-.005\"(+/-.127mm)": {}
+                    }
+                },
+                "Powder Coating": {
+                    "Tolerance": {
+                        "+/-.005\"(+/-.127mm)": {}
+                    }
+                },
+                "Other": {
+                    "Tolerance": {
+                        "+/-.005\"(+/-.127mm)": {}
+                    }
+                }
+            }
+        },
+        "Hardboard (Masonite)": {
+            "Finish": {
+                "Standard": {
+                    "Tolerance": {
+                        "+/-.005\"(+/-.127mm)": {}
+                    }
+                },
+                "Annealing": {
+                    "Tolerance": {
+                        "+/-.005\"(+/-.127mm)": {}
+                    }
+                },
+                "Other": {
+                    "Tolerance": {
+                        "+/-.005\"(+/-.127mm)": {}
+                    }
+                }
+            }
+        },
+        "Poplar Hardwood": {
+            "Finish": {
+                "Standard": {
+                    "Tolerance": {
+                        "+/-.005\"(+/-.127mm)": {}
+                    }
+                },
+                "Passivate": {
+                    "Tolerance": {
+                        "+/-.005\"(+/-.127mm)": {}
+                    }
+                },
+                "Annealing": {
+                    "Tolerance": {
+                        "+/-.005\"(+/-.127mm)": {}
+                    }
+                },
+                "Other": {
+                    "Tolerance": {
+                        "+/-.005\"(+/-.127mm)": {}
+                    }
+                }
+            }
+        },
+        "Red Oak Hardwood": {
+            "Finish": {
+                "Standard": {
+                    "Tolerance": {
+                        "+/-.005\"(+/-.127mm)": {}
+                    }
+                },
+                "Annealing": {
+                    "Tolerance": {
+                        "+/-.005\"(+/-.127mm)": {}
+                    }
+                },
+                "Other": {
+                    "Tolerance": {
+                        "+/-.005\"(+/-.127mm)": {}
+                    }
+                }
+            }
+        },
+        "Uncoated Wood Laminate (Plywood), Birch": {
+            "Finish": {
+                "Standard": {
+                    "Tolerance": {
+                        "+/-.005\"(+/-.127mm)": {}
+                    }
+                },
+                "Electroless Nickel Plating": {
+                    "Tolerance": {
+                        "+/-.005\"(+/-.127mm)": {}
+                    }
+                },
+                "Gold Plating": {
+                    "Tolerance": {
+                        "+/-.005\"(+/-.127mm)": {}
+                    }
+                },
+                "Silver Plating": {
+                    "Tolerance": {
+                        "+/-.005\"(+/-.127mm)": {}
+                    }
+                },
+                "Zinc Plating": {
+                    "Tolerance": {
+                        "+/-.005\"(+/-.127mm)": {}
+                    }
+                },
+                "Other": {
+                    "Tolerance": {
+                        "+/-.005\"(+/-.127mm)": {}
+                    }
+                }
+            }
+        }
+    }
+}

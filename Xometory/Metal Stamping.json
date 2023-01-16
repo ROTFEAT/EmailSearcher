@@ -1,0 +1,434 @@
+{
+    "Material": {
+        "Brass 230 (85/15)": {
+            "Tool Requirements": {
+                "500-1000 units": {
+                    "Finish": {
+                        "Standard": {},
+                        "Annealing": {},
+                        "Bead Blast": {},
+                        "Electroless Nickel Plating": {},
+                        "Gold Plating": {},
+                        "Powder Coating": {},
+                        "Silver Plating": {},
+                        "Tumbled": {},
+                        "Zinc Plating": {}
+                    }
+                },
+                "1,000 - 25,000 units": {
+                    "Finish": {
+                        "Standard": {},
+                        "Annealing": {},
+                        "Bead Blast": {},
+                        "Electroless Nickel Plating": {},
+                        "Gold Plating": {},
+                        "Powder Coating": {},
+                        "Silver Plating": {},
+                        "Tumbled": {},
+                        "Zinc Plating": {}
+                    }
+                },
+                "Over 25,000 units": {
+                    "Finish": {
+                        "Standard": {},
+                        "Annealing": {},
+                        "Bead Blast": {},
+                        "Electroless Nickel Plating": {},
+                        "Gold Plating": {},
+                        "Powder Coating": {},
+                        "Silver Plating": {},
+                        "Tumbled": {},
+                        "Zinc Plating": {}
+                    }
+                }
+            }
+        },
+        "Brass 260 (70/30)": {
+            "Tool Requirements": {
+                "500-1000 units": {
+                    "Finish": {
+                        "Standard": {},
+                        "Annealing": {},
+                        "Bead Blast": {},
+                        "Electroless Nickel Plating": {},
+                        "Gold Plating": {},
+                        "Powder Coating": {},
+                        "Silver Plating": {},
+                        "Tumbled": {},
+                        "Zinc Plating": {}
+                    }
+                },
+                "1,000 - 25,000 units": {
+                    "Finish": {
+                        "Standard": {},
+                        "Annealing": {},
+                        "Bead Blast": {},
+                        "Electroless Nickel Plating": {},
+                        "Gold Plating": {},
+                        "Powder Coating": {},
+                        "Silver Plating": {},
+                        "Tumbled": {},
+                        "Zinc Plating": {}
+                    }
+                },
+                "Over 25,000 units": {
+                    "Finish": {
+                        "Standard": {},
+                        "Annealing": {},
+                        "Bead Blast": {},
+                        "Electroless Nickel Plating": {},
+                        "Gold Plating": {},
+                        "Powder Coating": {},
+                        "Silver Plating": {},
+                        "Tumbled": {},
+                        "Zinc Plating": {}
+                    }
+                }
+            }
+        },
+        "Copper C110": {
+            "Tool Requirements": {
+                "500-1000 units": {
+                    "Finish": {
+                        "Standard": {},
+                        "Annealing": {},
+                        "Bead Blast": {},
+                        "Electroless Nickel Plating": {},
+                        "Gold Plating": {},
+                        "Powder Coating": {},
+                        "Silver Plating": {},
+                        "Tumbled": {},
+                        "Zinc Plating": {}
+                    }
+                },
+                "1,000 - 25,000 units": {
+                    "Finish": {
+                        "Standard": {},
+                        "Annealing": {},
+                        "Bead Blast": {},
+                        "Electroless Nickel Plating": {},
+                        "Gold Plating": {},
+                        "Powder Coating": {},
+                        "Silver Plating": {},
+                        "Tumbled": {},
+                        "Zinc Plating": {}
+                    }
+                },
+                "Over 25,000 units": {
+                    "Finish": {
+                        "Standard": {},
+                        "Annealing": {},
+                        "Bead Blast": {},
+                        "Electroless Nickel Plating": {},
+                        "Gold Plating": {},
+                        "Powder Coating": {},
+                        "Silver Plating": {},
+                        "Tumbled": {},
+                        "Zinc Plating": {}
+                    }
+                }
+            }
+        },
+        "Stainless Steel 304": {
+            "Tool Requirements": {
+                "500-1000 units": {
+                    "Finish": {
+                        "Standard": {},
+                        "Annealing": {},
+                        "Bead Blast": {},
+                        "Electroless Nickel Plating": {},
+                        "Gold Plating": {},
+                        "Powder Coating": {},
+                        "Silver Plating": {},
+                        "Tumbled": {},
+                        "Zinc Plating": {}
+                    }
+                },
+                "1,000 - 25,000 units": {
+                    "Finish": {
+                        "Standard": {},
+                        "Annealing": {},
+                        "Bead Blast": {},
+                        "Electroless Nickel Plating": {},
+                        "Gold Plating": {},
+                        "Powder Coating": {},
+                        "Silver Plating": {},
+                        "Tumbled": {},
+                        "Zinc Plating": {}
+                    }
+                },
+                "Over 25,000 units": {
+                    "Finish": {
+                        "Standard": {},
+                        "Annealing": {},
+                        "Bead Blast": {},
+                        "Electroless Nickel Plating": {},
+                        "Gold Plating": {},
+                        "Powder Coating": {},
+                        "Silver Plating": {},
+                        "Tumbled": {},
+                        "Zinc Plating": {}
+                    }
+                }
+            }
+        },
+        "Stainless Steel 301": {
+            "Tool Requirements": {
+                "500-1000 units": {
+                    "Finish": {
+                        "Standard": {},
+                        "Annealing": {},
+                        "Bead Blast": {},
+                        "Electroless Nickel Plating": {},
+                        "Gold Plating": {},
+                        "Powder Coating": {},
+                        "Silver Plating": {},
+                        "Tumbled": {},
+                        "Zinc Plating": {}
+                    }
+                },
+                "1,000 - 25,000 units": {
+                    "Finish": {
+                        "Standard": {},
+                        "Annealing": {},
+                        "Bead Blast": {},
+                        "Electroless Nickel Plating": {},
+                        "Gold Plating": {},
+                        "Powder Coating": {},
+                        "Silver Plating": {},
+                        "Tumbled": {},
+                        "Zinc Plating": {}
+                    }
+                },
+                "Over 25,000 units": {
+                    "Finish": {
+                        "Standard": {},
+                        "Annealing": {},
+                        "Bead Blast": {},
+                        "Electroless Nickel Plating": {},
+                        "Gold Plating": {},
+                        "Powder Coating": {},
+                        "Silver Plating": {},
+                        "Tumbled": {},
+                        "Zinc Plating": {}
+                    }
+                }
+            }
+        },
+        "Stainless Steel 316/316L": {
+            "Tool Requirements": {
+                "500-1000 units": {
+                    "Finish": {
+                        "Standard": {},
+                        "Annealing": {},
+                        "Bead Blast": {},
+                        "Electroless Nickel Plating": {},
+                        "Gold Plating": {},
+                        "Powder Coating": {},
+                        "Silver Plating": {},
+                        "Tumbled": {},
+                        "Zinc Plating": {}
+                    }
+                },
+                "1,000 - 25,000 units": {
+                    "Finish": {
+                        "Standard": {},
+                        "Annealing": {},
+                        "Bead Blast": {},
+                        "Electroless Nickel Plating": {},
+                        "Gold Plating": {},
+                        "Powder Coating": {},
+                        "Silver Plating": {},
+                        "Tumbled": {},
+                        "Zinc Plating": {}
+                    }
+                },
+                "Over 25,000 units": {
+                    "Finish": {
+                        "Standard": {},
+                        "Annealing": {},
+                        "Bead Blast": {},
+                        "Electroless Nickel Plating": {},
+                        "Gold Plating": {},
+                        "Powder Coating": {},
+                        "Silver Plating": {},
+                        "Tumbled": {},
+                        "Zinc Plating": {}
+                    }
+                }
+            }
+        },
+        "Steel 1008": {
+            "Tool Requirements": {
+                "500-1000 units": {
+                    "Finish": {
+                        "Standard": {},
+                        "Annealing": {},
+                        "Bead Blast": {},
+                        "Electroless Nickel Plating": {},
+                        "Gold Plating": {},
+                        "Powder Coating": {},
+                        "Silver Plating": {},
+                        "Tumbled": {},
+                        "Zinc Plating": {}
+                    }
+                },
+                "1,000 - 25,000 units": {
+                    "Finish": {
+                        "Standard": {},
+                        "Annealing": {},
+                        "Bead Blast": {},
+                        "Electroless Nickel Plating": {},
+                        "Gold Plating": {},
+                        "Powder Coating": {},
+                        "Silver Plating": {},
+                        "Tumbled": {},
+                        "Zinc Plating": {}
+                    }
+                },
+                "Over 25,000 units": {
+                    "Finish": {
+                        "Standard": {},
+                        "Annealing": {},
+                        "Bead Blast": {},
+                        "Electroless Nickel Plating": {},
+                        "Gold Plating": {},
+                        "Powder Coating": {},
+                        "Silver Plating": {},
+                        "Tumbled": {},
+                        "Zinc Plating": {}
+                    }
+                }
+            }
+        },
+        "Steel 1010": {
+            "Tool Requirements": {
+                "500-1000 units": {
+                    "Finish": {
+                        "Standard": {},
+                        "Annealing": {},
+                        "Bead Blast": {},
+                        "Electroless Nickel Plating": {},
+                        "Gold Plating": {},
+                        "Powder Coating": {},
+                        "Silver Plating": {},
+                        "Tumbled": {},
+                        "Zinc Plating": {}
+                    }
+                },
+                "1,000 - 25,000 units": {
+                    "Finish": {
+                        "Standard": {},
+                        "Annealing": {},
+                        "Bead Blast": {},
+                        "Electroless Nickel Plating": {},
+                        "Gold Plating": {},
+                        "Powder Coating": {},
+                        "Silver Plating": {},
+                        "Tumbled": {},
+                        "Zinc Plating": {}
+                    }
+                },
+                "Over 25,000 units": {
+                    "Finish": {
+                        "Standard": {},
+                        "Annealing": {},
+                        "Bead Blast": {},
+                        "Electroless Nickel Plating": {},
+                        "Gold Plating": {},
+                        "Powder Coating": {},
+                        "Silver Plating": {},
+                        "Tumbled": {},
+                        "Zinc Plating": {}
+                    }
+                }
+            }
+        },
+        "Steel 1018": {
+            "Tool Requirements": {
+                "500-1000 units": {
+                    "Finish": {
+                        "Standard": {},
+                        "Annealing": {},
+                        "Bead Blast": {},
+                        "Electroless Nickel Plating": {},
+                        "Gold Plating": {},
+                        "Powder Coating": {},
+                        "Silver Plating": {},
+                        "Tumbled": {},
+                        "Zinc Plating": {}
+                    }
+                },
+                "1,000 - 25,000 units": {
+                    "Finish": {
+                        "Standard": {},
+                        "Annealing": {},
+                        "Bead Blast": {},
+                        "Electroless Nickel Plating": {},
+                        "Gold Plating": {},
+                        "Powder Coating": {},
+                        "Silver Plating": {},
+                        "Tumbled": {},
+                        "Zinc Plating": {}
+                    }
+                },
+                "Over 25,000 units": {
+                    "Finish": {
+                        "Standard": {},
+                        "Annealing": {},
+                        "Bead Blast": {},
+                        "Electroless Nickel Plating": {},
+                        "Gold Plating": {},
+                        "Powder Coating": {},
+                        "Silver Plating": {},
+                        "Tumbled": {},
+                        "Zinc Plating": {}
+                    }
+                }
+            }
+        },
+        "Other Alloy": {
+            "Tool Requirements": {
+                "500-1000 units": {
+                    "Finish": {
+                        "Standard": {},
+                        "Annealing": {},
+                        "Bead Blast": {},
+                        "Electroless Nickel Plating": {},
+                        "Gold Plating": {},
+                        "Powder Coating": {},
+                        "Silver Plating": {},
+                        "Tumbled": {},
+                        "Zinc Plating": {}
+                    }
+                },
+                "1,000 - 25,000 units": {
+                    "Finish": {
+                        "Standard": {},
+                        "Annealing": {},
+                        "Bead Blast": {},
+                        "Electroless Nickel Plating": {},
+                        "Gold Plating": {},
+                        "Powder Coating": {},
+                        "Silver Plating": {},
+                        "Tumbled": {},
+                        "Zinc Plating": {}
+                    }
+                },
+                "Over 25,000 units": {
+                    "Finish": {
+                        "Standard": {},
+                        "Annealing": {},
+                        "Bead Blast": {},
+                        "Electroless Nickel Plating": {},
+                        "Gold Plating": {},
+                        "Powder Coating": {},
+                        "Silver Plating": {},
+                        "Tumbled": {},
+                        "Zinc Plating": {}
+                    }
+                }
+            }
+        }
+    }
+}

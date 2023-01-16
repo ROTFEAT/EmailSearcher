@@ -81,6 +81,7 @@ if __name__ == "__main__":
     url2 = "https://www.xometry.com/quoting/quote/Q36-0160-6252/63be19d4d54e146933b66919?initialTab=Configure"
     xo_spider = xoSelnium(url)
     cookie_path = 'Xometory/cookies.json'
+    save_path = "Xometory/Metal Stamping.json"
     xo_spider.useCookie(url=url2,cookie_path=cookie_path)
     time.sleep(10)
     # xo_spider.touchProcess()#点击
@@ -106,7 +107,7 @@ if __name__ == "__main__":
                 
                 dict_update(res,new_data)
                 json_data = json.dumps(res)
-                with open("3d-print.json","w") as f:
+                with open(save_path,"w") as f:
                     f.write(json.dumps(res))
                 # print(res)
             

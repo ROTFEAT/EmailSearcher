@@ -1,0 +1,2860 @@
+{
+    "Material": {
+        "Aluminum 2024": {
+            "Finish": {
+                "Standard": {
+                    "Tolerance": {
+                        "+/-.005\"(+/-.127mm)": {
+                            "Surface Roughness": {
+                                "125uin/3.2um Ra": {},
+                                "63uin/1.6um Ra": {},
+                                "32uin/0.8um Ra": {},
+                                "16uin/0.4um Ra": {}
+                            }
+                        },
+                        "+/-.004\"(+/-102mm)": {
+                            "Surface Roughness": {
+                                "125uin/3.2um Ra": {},
+                                "63uin/1.6um Ra": {},
+                                "32uin/0.8um Ra": {},
+                                "16uin/0.4um Ra": {}
+                            }
+                        },
+                        "+/-.003\"(+/-.076mm)": {
+                            "Surface Roughness": {
+                                "125uin/3.2um Ra": {},
+                                "63uin/1.6um Ra": {},
+                                "32uin/0.8um Ra": {},
+                                "16uin/0.4um Ra": {}
+                            }
+                        },
+                        "+/-.002\"(+/-.051mm)": {
+                            "Surface Roughness": {
+                                "125uin/3.2um Ra": {},
+                                "63uin/1.6um Ra": {},
+                                "32uin/0.8um Ra": {},
+                                "16uin/0.4um Ra": {}
+                            }
+                        },
+                        "+/-.001\"(+/-.025mm)": {
+                            "Surface Roughness": {
+                                "16uin/0.4um Ra": {},
+                                "32uin/0.8um Ra": {},
+                                "63uin/1.6um Ra": {},
+                                "125uin/3.2um Ra": {}
+                            }
+                        }
+                    }
+                },
+                "Black Anodize": {
+                    "Tolerance": {
+                        "+/-.005\"(+/-.127mm)": {
+                            "Surface Roughness": {
+                                "125uin/3.2um Ra": {},
+                                "63uin/1.6um Ra": {},
+                                "32uin/0.8um Ra": {},
+                                "16uin/0.4um Ra": {}
+                            }
+                        }
+                    }
+                },
+                "Black Hardcoat Anodize": {
+                    "Tolerance": {
+                        "+/-.005\"(+/-.127mm)": {
+                            "Surface Roughness": {
+                                "125uin/3.2um Ra": {},
+                                "63uin/1.6um Ra": {},
+                                "32uin/0.8um Ra": {},
+                                "16uin/0.4um Ra": {}
+                            }
+                        },
+                        "+/-.004\"(+/-102mm)": {
+                            "Surface Roughness": {
+                                "125uin/3.2um Ra": {},
+                                "63uin/1.6um Ra": {},
+                                "32uin/0.8um Ra": {},
+                                "16uin/0.4um Ra": {}
+                            }
+                        },
+                        "+/-.003\"(+/-.076mm)": {
+                            "Surface Roughness": {
+                                "125uin/3.2um Ra": {},
+                                "63uin/1.6um Ra": {},
+                                "32uin/0.8um Ra": {},
+                                "16uin/0.4um Ra": {}
+                            }
+                        },
+                        "+/-.002\"(+/-.051mm)": {
+                            "Surface Roughness": {
+                                "125uin/3.2um Ra": {},
+                                "63uin/1.6um Ra": {},
+                                "32uin/0.8um Ra": {},
+                                "16uin/0.4um Ra": {}
+                            }
+                        },
+                        "+/-.001\"(+/-.025mm)": {
+                            "Surface Roughness": {
+                                "16uin/0.4um Ra": {},
+                                "32uin/0.8um Ra": {},
+                                "63uin/1.6um Ra": {},
+                                "125uin/3.2um Ra": {}
+                            }
+                        }
+                    }
+                },
+                "Blue Anodize": {
+                    "Tolerance": {
+                        "+/-.005\"(+/-.127mm)": {
+                            "Surface Roughness": {
+                                "125uin/3.2um Ra": {},
+                                "63uin/1.6um Ra": {},
+                                "32uin/0.8um Ra": {},
+                                "16uin/0.4um Ra": {}
+                            }
+                        },
+                        "+/-.004\"(+/-102mm)": {
+                            "Surface Roughness": {
+                                "125uin/3.2um Ra": {},
+                                "63uin/1.6um Ra": {},
+                                "32uin/0.8um Ra": {},
+                                "16uin/0.4um Ra": {}
+                            }
+                        },
+                        "+/-.003\"(+/-.076mm)": {
+                            "Surface Roughness": {
+                                "125uin/3.2um Ra": {},
+                                "63uin/1.6um Ra": {},
+                                "32uin/0.8um Ra": {},
+                                "16uin/0.4um Ra": {}
+                            }
+                        },
+                        "+/-.002\"(+/-.051mm)": {
+                            "Surface Roughness": {
+                                "125uin/3.2um Ra": {},
+                                "63uin/1.6um Ra": {},
+                                "32uin/0.8um Ra": {},
+                                "16uin/0.4um Ra": {}
+                            }
+                        },
+                        "+/-.001\"(+/-.025mm)": {
+                            "Surface Roughness": {
+                                "16uin/0.4um Ra": {},
+                                "32uin/0.8um Ra": {},
+                                "63uin/1.6um Ra": {},
+                                "125uin/3.2um Ra": {}
+                            }
+                        }
+                    }
+                },
+                "Clear Anodize": {
+                    "Tolerance": {
+                        "+/-.005\"(+/-.127mm)": {
+                            "Surface Roughness": {
+                                "125uin/3.2um Ra": {},
+                                "63uin/1.6um Ra": {},
+                                "32uin/0.8um Ra": {},
+                                "16uin/0.4um Ra": {}
+                            }
+                        },
+                        "+/-.004\"(+/-102mm)": {
+                            "Surface Roughness": {
+                                "125uin/3.2um Ra": {},
+                                "63uin/1.6um Ra": {},
+                                "32uin/0.8um Ra": {},
+                                "16uin/0.4um Ra": {}
+                            }
+                        },
+                        "+/-.003\"(+/-.076mm)": {
+                            "Surface Roughness": {
+                                "125uin/3.2um Ra": {},
+                                "63uin/1.6um Ra": {},
+                                "32uin/0.8um Ra": {},
+                                "16uin/0.4um Ra": {}
+                            }
+                        },
+                        "+/-.002\"(+/-.051mm)": {
+                            "Surface Roughness": {
+                                "125uin/3.2um Ra": {},
+                                "63uin/1.6um Ra": {},
+                                "32uin/0.8um Ra": {},
+                                "16uin/0.4um Ra": {}
+                            }
+                        },
+                        "+/-.001\"(+/-.025mm)": {
+                            "Surface Roughness": {
+                                "16uin/0.4um Ra": {},
+                                "32uin/0.8um Ra": {},
+                                "63uin/1.6um Ra": {},
+                                "125uin/3.2um Ra": {}
+                            }
+                        }
+                    }
+                },
+                "Clear Hardcoat Anodize": {
+                    "Tolerance": {
+                        "+/-.005\"(+/-.127mm)": {
+                            "Surface Roughness": {
+                                "125uin/3.2um Ra": {},
+                                "63uin/1.6um Ra": {},
+                                "32uin/0.8um Ra": {},
+                                "16uin/0.4um Ra": {}
+                            }
+                        },
+                        "+/-.004\"(+/-102mm)": {
+                            "Surface Roughness": {
+                                "125uin/3.2um Ra": {},
+                                "63uin/1.6um Ra": {},
+                                "32uin/0.8um Ra": {},
+                                "16uin/0.4um Ra": {}
+                            }
+                        },
+                        "+/-.003\"(+/-.076mm)": {
+                            "Surface Roughness": {
+                                "125uin/3.2um Ra": {},
+                                "63uin/1.6um Ra": {},
+                                "32uin/0.8um Ra": {},
+                                "16uin/0.4um Ra": {}
+                            }
+                        },
+                        "+/-.002\"(+/-.051mm)": {
+                            "Surface Roughness": {
+                                "125uin/3.2um Ra": {},
+                                "63uin/1.6um Ra": {},
+                                "32uin/0.8um Ra": {},
+                                "16uin/0.4um Ra": {}
+                            }
+                        },
+                        "+/-.001\"(+/-.025mm)": {
+                            "Surface Roughness": {
+                                "16uin/0.4um Ra": {},
+                                "32uin/0.8um Ra": {},
+                                "63uin/1.6um Ra": {},
+                                "125uin/3.2um Ra": {}
+                            }
+                        }
+                    }
+                },
+                "Gold Anodize": {
+                    "Tolerance": {
+                        "+/-.005\"(+/-.127mm)": {
+                            "Surface Roughness": {
+                                "125uin/3.2um Ra": {},
+                                "63uin/1.6um Ra": {},
+                                "32uin/0.8um Ra": {},
+                                "16uin/0.4um Ra": {}
+                            }
+                        },
+                        "+/-.004\"(+/-102mm)": {
+                            "Surface Roughness": {
+                                "125uin/3.2um Ra": {},
+                                "63uin/1.6um Ra": {},
+                                "32uin/0.8um Ra": {},
+                                "16uin/0.4um Ra": {}
+                            }
+                        },
+                        "+/-.003\"(+/-.076mm)": {
+                            "Surface Roughness": {
+                                "125uin/3.2um Ra": {},
+                                "63uin/1.6um Ra": {},
+                                "32uin/0.8um Ra": {},
+                                "16uin/0.4um Ra": {}
+                            }
+                        },
+                        "+/-.002\"(+/-.051mm)": {
+                            "Surface Roughness": {
+                                "125uin/3.2um Ra": {},
+                                "63uin/1.6um Ra": {},
+                                "32uin/0.8um Ra": {},
+                                "16uin/0.4um Ra": {}
+                            }
+                        },
+                        "+/-.001\"(+/-.025mm)": {
+                            "Surface Roughness": {
+                                "16uin/0.4um Ra": {},
+                                "32uin/0.8um Ra": {},
+                                "63uin/1.6um Ra": {},
+                                "125uin/3.2um Ra": {}
+                            }
+                        }
+                    }
+                },
+                "Gray Hardcoat Anodize": {
+                    "Tolerance": {
+                        "+/-.005\"(+/-.127mm)": {
+                            "Surface Roughness": {
+                                "125uin/3.2um Ra": {},
+                                "63uin/1.6um Ra": {},
+                                "32uin/0.8um Ra": {},
+                                "16uin/0.4um Ra": {}
+                            }
+                        },
+                        "+/-.004\"(+/-102mm)": {
+                            "Surface Roughness": {
+                                "125uin/3.2um Ra": {},
+                                "63uin/1.6um Ra": {},
+                                "32uin/0.8um Ra": {},
+                                "16uin/0.4um Ra": {}
+                            }
+                        },
+                        "+/-.003\"(+/-.076mm)": {
+                            "Surface Roughness": {
+                                "125uin/3.2um Ra": {},
+                                "63uin/1.6um Ra": {},
+                                "32uin/0.8um Ra": {},
+                                "16uin/0.4um Ra": {}
+                            }
+                        },
+                        "+/-.002\"(+/-.051mm)": {
+                            "Surface Roughness": {
+                                "125uin/3.2um Ra": {},
+                                "63uin/1.6um Ra": {},
+                                "32uin/0.8um Ra": {},
+                                "16uin/0.4um Ra": {}
+                            }
+                        },
+                        "+/-.001\"(+/-.025mm)": {
+                            "Surface Roughness": {
+                                "16uin/0.4um Ra": {},
+                                "32uin/0.8um Ra": {},
+                                "63uin/1.6um Ra": {},
+                                "125uin/3.2um Ra": {}
+                            }
+                        }
+                    }
+                },
+                "Green Anodize": {
+                    "Tolerance": {
+                        "+/-.005\"(+/-.127mm)": {
+                            "Surface Roughness": {
+                                "125uin/3.2um Ra": {},
+                                "63uin/1.6um Ra": {},
+                                "32uin/0.8um Ra": {},
+                                "16uin/0.4um Ra": {}
+                            }
+                        },
+                        "+/-.004\"(+/-102mm)": {
+                            "Surface Roughness": {
+                                "125uin/3.2um Ra": {},
+                                "63uin/1.6um Ra": {},
+                                "32uin/0.8um Ra": {},
+                                "16uin/0.4um Ra": {}
+                            }
+                        },
+                        "+/-.003\"(+/-.076mm)": {
+                            "Surface Roughness": {
+                                "125uin/3.2um Ra": {},
+                                "63uin/1.6um Ra": {},
+                                "32uin/0.8um Ra": {},
+                                "16uin/0.4um Ra": {}
+                            }
+                        },
+                        "+/-.002\"(+/-.051mm)": {
+                            "Surface Roughness": {
+                                "125uin/3.2um Ra": {},
+                                "63uin/1.6um Ra": {},
+                                "32uin/0.8um Ra": {},
+                                "16uin/0.4um Ra": {}
+                            }
+                        },
+                        "+/-.001\"(+/-.025mm)": {
+                            "Surface Roughness": {
+                                "16uin/0.4um Ra": {},
+                                "32uin/0.8um Ra": {},
+                                "63uin/1.6um Ra": {},
+                                "125uin/3.2um Ra": {}
+                            }
+                        }
+                    }
+                },
+                "Orange Anodize": {
+                    "Tolerance": {
+                        "+/-.005\"(+/-.127mm)": {
+                            "Surface Roughness": {
+                                "125uin/3.2um Ra": {},
+                                "63uin/1.6um Ra": {},
+                                "32uin/0.8um Ra": {},
+                                "16uin/0.4um Ra": {}
+                            }
+                        },
+                        "+/-.004\"(+/-102mm)": {
+                            "Surface Roughness": {
+                                "125uin/3.2um Ra": {},
+                                "63uin/1.6um Ra": {},
+                                "32uin/0.8um Ra": {},
+                                "16uin/0.4um Ra": {}
+                            }
+                        },
+                        "+/-.003\"(+/-.076mm)": {
+                            "Surface Roughness": {
+                                "125uin/3.2um Ra": {},
+                                "63uin/1.6um Ra": {},
+                                "32uin/0.8um Ra": {},
+                                "16uin/0.4um Ra": {}
+                            }
+                        },
+                        "+/-.002\"(+/-.051mm)": {
+                            "Surface Roughness": {
+                                "125uin/3.2um Ra": {},
+                                "63uin/1.6um Ra": {},
+                                "32uin/0.8um Ra": {},
+                                "16uin/0.4um Ra": {}
+                            }
+                        },
+                        "+/-.001\"(+/-.025mm)": {
+                            "Surface Roughness": {
+                                "16uin/0.4um Ra": {},
+                                "32uin/0.8um Ra": {},
+                                "63uin/1.6um Ra": {},
+                                "125uin/3.2um Ra": {}
+                            }
+                        }
+                    }
+                },
+                "PTFE Impregnated Hard Anodize": {
+                    "Tolerance": {
+                        "+/-.005\"(+/-.127mm)": {
+                            "Surface Roughness": {
+                                "125uin/3.2um Ra": {},
+                                "63uin/1.6um Ra": {},
+                                "32uin/0.8um Ra": {},
+                                "16uin/0.4um Ra": {}
+                            }
+                        },
+                        "+/-.004\"(+/-102mm)": {
+                            "Surface Roughness": {
+                                "125uin/3.2um Ra": {},
+                                "63uin/1.6um Ra": {},
+                                "32uin/0.8um Ra": {},
+                                "16uin/0.4um Ra": {}
+                            }
+                        },
+                        "+/-.003\"(+/-.076mm)": {
+                            "Surface Roughness": {
+                                "125uin/3.2um Ra": {},
+                                "63uin/1.6um Ra": {},
+                                "32uin/0.8um Ra": {},
+                                "16uin/0.4um Ra": {}
+                            }
+                        },
+                        "+/-.002\"(+/-.051mm)": {
+                            "Surface Roughness": {
+                                "125uin/3.2um Ra": {},
+                                "63uin/1.6um Ra": {},
+                                "32uin/0.8um Ra": {},
+                                "16uin/0.4um Ra": {}
+                            }
+                        },
+                        "+/-.001\"(+/-.025mm)": {
+                            "Surface Roughness": {
+                                "16uin/0.4um Ra": {},
+                                "32uin/0.8um Ra": {},
+                                "63uin/1.6um Ra": {},
+                                "125uin/3.2um Ra": {}
+                            }
+                        }
+                    }
+                },
+                "Purple Anodize": {
+                    "Tolerance": {
+                        "+/-.005\"(+/-.127mm)": {
+                            "Surface Roughness": {
+                                "125uin/3.2um Ra": {},
+                                "63uin/1.6um Ra": {},
+                                "32uin/0.8um Ra": {},
+                                "16uin/0.4um Ra": {}
+                            }
+                        },
+                        "+/-.004\"(+/-102mm)": {
+                            "Surface Roughness": {
+                                "125uin/3.2um Ra": {},
+                                "63uin/1.6um Ra": {},
+                                "32uin/0.8um Ra": {},
+                                "16uin/0.4um Ra": {}
+                            }
+                        },
+                        "+/-.003\"(+/-.076mm)": {
+                            "Surface Roughness": {
+                                "125uin/3.2um Ra": {},
+                                "63uin/1.6um Ra": {},
+                                "32uin/0.8um Ra": {},
+                                "16uin/0.4um Ra": {}
+                            }
+                        },
+                        "+/-.002\"(+/-.051mm)": {
+                            "Surface Roughness": {
+                                "125uin/3.2um Ra": {},
+                                "63uin/1.6um Ra": {},
+                                "32uin/0.8um Ra": {},
+                                "16uin/0.4um Ra": {}
+                            }
+                        },
+                        "+/-.001\"(+/-.025mm)": {
+                            "Surface Roughness": {
+                                "16uin/0.4um Ra": {},
+                                "32uin/0.8um Ra": {},
+                                "63uin/1.6um Ra": {},
+                                "125uin/3.2um Ra": {}
+                            }
+                        }
+                    }
+                },
+                "Red Anodize": {
+                    "Tolerance": {
+                        "+/-.005\"(+/-.127mm)": {
+                            "Surface Roughness": {
+                                "125uin/3.2um Ra": {},
+                                "63uin/1.6um Ra": {},
+                                "32uin/0.8um Ra": {},
+                                "16uin/0.4um Ra": {}
+                            }
+                        },
+                        "+/-.004\"(+/-102mm)": {
+                            "Surface Roughness": {
+                                "125uin/3.2um Ra": {},
+                                "63uin/1.6um Ra": {},
+                                "32uin/0.8um Ra": {},
+                                "16uin/0.4um Ra": {}
+                            }
+                        },
+                        "+/-.003\"(+/-.076mm)": {
+                            "Surface Roughness": {
+                                "125uin/3.2um Ra": {},
+                                "63uin/1.6um Ra": {},
+                                "32uin/0.8um Ra": {},
+                                "16uin/0.4um Ra": {}
+                            }
+                        },
+                        "+/-.002\"(+/-.051mm)": {
+                            "Surface Roughness": {
+                                "125uin/3.2um Ra": {},
+                                "63uin/1.6um Ra": {},
+                                "32uin/0.8um Ra": {},
+                                "16uin/0.4um Ra": {}
+                            }
+                        },
+                        "+/-.001\"(+/-.025mm)": {
+                            "Surface Roughness": {
+                                "16uin/0.4um Ra": {},
+                                "32uin/0.8um Ra": {},
+                                "63uin/1.6um Ra": {},
+                                "125uin/3.2um Ra": {}
+                            }
+                        }
+                    }
+                },
+                "Yellow Anodize": {
+                    "Tolerance": {
+                        "+/-.005\"(+/-.127mm)": {
+                            "Surface Roughness": {
+                                "125uin/3.2um Ra": {},
+                                "63uin/1.6um Ra": {},
+                                "32uin/0.8um Ra": {},
+                                "16uin/0.4um Ra": {}
+                            }
+                        },
+                        "+/-.004\"(+/-102mm)": {
+                            "Surface Roughness": {
+                                "125uin/3.2um Ra": {},
+                                "63uin/1.6um Ra": {},
+                                "32uin/0.8um Ra": {},
+                                "16uin/0.4um Ra": {}
+                            }
+                        },
+                        "+/-.003\"(+/-.076mm)": {
+                            "Surface Roughness": {
+                                "125uin/3.2um Ra": {},
+                                "63uin/1.6um Ra": {},
+                                "32uin/0.8um Ra": {},
+                                "16uin/0.4um Ra": {}
+                            }
+                        },
+                        "+/-.002\"(+/-.051mm)": {
+                            "Surface Roughness": {
+                                "125uin/3.2um Ra": {},
+                                "63uin/1.6um Ra": {},
+                                "32uin/0.8um Ra": {},
+                                "16uin/0.4um Ra": {}
+                            }
+                        },
+                        "+/-.001\"(+/-.025mm)": {
+                            "Surface Roughness": {
+                                "16uin/0.4um Ra": {},
+                                "32uin/0.8um Ra": {},
+                                "63uin/1.6um Ra": {},
+                                "125uin/3.2um Ra": {}
+                            }
+                        }
+                    }
+                },
+                "Chem Film Clear": {
+                    "Tolerance": {
+                        "+/-.005\"(+/-.127mm)": {
+                            "Surface Roughness": {
+                                "125uin/3.2um Ra": {},
+                                "63uin/1.6um Ra": {},
+                                "32uin/0.8um Ra": {},
+                                "16uin/0.4um Ra": {}
+                            }
+                        },
+                        "+/-.004\"(+/-102mm)": {
+                            "Surface Roughness": {
+                                "125uin/3.2um Ra": {},
+                                "63uin/1.6um Ra": {},
+                                "32uin/0.8um Ra": {},
+                                "16uin/0.4um Ra": {}
+                            }
+                        },
+                        "+/-.003\"(+/-.076mm)": {
+                            "Surface Roughness": {
+                                "125uin/3.2um Ra": {},
+                                "63uin/1.6um Ra": {},
+                                "32uin/0.8um Ra": {},
+                                "16uin/0.4um Ra": {}
+                            }
+                        },
+                        "+/-.002\"(+/-.051mm)": {
+                            "Surface Roughness": {
+                                "125uin/3.2um Ra": {},
+                                "63uin/1.6um Ra": {},
+                                "32uin/0.8um Ra": {},
+                                "16uin/0.4um Ra": {}
+                            }
+                        },
+                        "+/-.001\"(+/-.025mm)": {
+                            "Surface Roughness": {
+                                "16uin/0.4um Ra": {},
+                                "32uin/0.8um Ra": {},
+                                "63uin/1.6um Ra": {},
+                                "125uin/3.2um Ra": {}
+                            }
+                        }
+                    }
+                },
+                "Chem Film Gold": {
+                    "Tolerance": {
+                        "+/-.005\"(+/-.127mm)": {
+                            "Surface Roughness": {
+                                "125uin/3.2um Ra": {},
+                                "63uin/1.6um Ra": {},
+                                "32uin/0.8um Ra": {},
+                                "16uin/0.4um Ra": {}
+                            }
+                        },
+                        "+/-.004\"(+/-102mm)": {
+                            "Surface Roughness": {
+                                "125uin/3.2um Ra": {},
+                                "63uin/1.6um Ra": {},
+                                "32uin/0.8um Ra": {},
+                                "16uin/0.4um Ra": {}
+                            }
+                        },
+                        "+/-.003\"(+/-.076mm)": {
+                            "Surface Roughness": {
+                                "125uin/3.2um Ra": {},
+                                "63uin/1.6um Ra": {},
+                                "32uin/0.8um Ra": {},
+                                "16uin/0.4um Ra": {}
+                            }
+                        },
+                        "+/-.002\"(+/-.051mm)": {
+                            "Surface Roughness": {
+                                "125uin/3.2um Ra": {},
+                                "63uin/1.6um Ra": {},
+                                "32uin/0.8um Ra": {},
+                                "16uin/0.4um Ra": {}
+                            }
+                        },
+                        "+/-.001\"(+/-.025mm)": {
+                            "Surface Roughness": {
+                                "16uin/0.4um Ra": {},
+                                "32uin/0.8um Ra": {},
+                                "63uin/1.6um Ra": {},
+                                "125uin/3.2um Ra": {}
+                            }
+                        }
+                    }
+                },
+                "Passivate": {
+                    "Tolerance": {
+                        "+/-.005\"(+/-.127mm)": {
+                            "Surface Roughness": {
+                                "125uin/3.2um Ra": {},
+                                "63uin/1.6um Ra": {},
+                                "32uin/0.8um Ra": {},
+                                "16uin/0.4um Ra": {}
+                            }
+                        },
+                        "+/-.004\"(+/-102mm)": {
+                            "Surface Roughness": {
+                                "125uin/3.2um Ra": {},
+                                "63uin/1.6um Ra": {},
+                                "32uin/0.8um Ra": {},
+                                "16uin/0.4um Ra": {}
+                            }
+                        },
+                        "+/-.003\"(+/-.076mm)": {
+                            "Surface Roughness": {
+                                "125uin/3.2um Ra": {},
+                                "63uin/1.6um Ra": {},
+                                "32uin/0.8um Ra": {},
+                                "16uin/0.4um Ra": {}
+                            }
+                        },
+                        "+/-.002\"(+/-.051mm)": {
+                            "Surface Roughness": {
+                                "125uin/3.2um Ra": {},
+                                "63uin/1.6um Ra": {},
+                                "32uin/0.8um Ra": {},
+                                "16uin/0.4um Ra": {}
+                            }
+                        },
+                        "+/-.001\"(+/-.025mm)": {
+                            "Surface Roughness": {
+                                "16uin/0.4um Ra": {},
+                                "32uin/0.8um Ra": {},
+                                "63uin/1.6um Ra": {},
+                                "125uin/3.2um Ra": {}
+                            }
+                        }
+                    }
+                },
+                "Annealing": {
+                    "Tolerance": {
+                        "+/-.005\"(+/-.127mm)": {
+                            "Surface Roughness": {
+                                "125uin/3.2um Ra": {},
+                                "63uin/1.6um Ra": {},
+                                "32uin/0.8um Ra": {},
+                                "16uin/0.4um Ra": {}
+                            }
+                        },
+                        "+/-.004\"(+/-102mm)": {
+                            "Surface Roughness": {
+                                "125uin/3.2um Ra": {},
+                                "63uin/1.6um Ra": {},
+                                "32uin/0.8um Ra": {},
+                                "16uin/0.4um Ra": {}
+                            }
+                        },
+                        "+/-.003\"(+/-.076mm)": {
+                            "Surface Roughness": {
+                                "125uin/3.2um Ra": {},
+                                "63uin/1.6um Ra": {},
+                                "32uin/0.8um Ra": {},
+                                "16uin/0.4um Ra": {}
+                            }
+                        },
+                        "+/-.002\"(+/-.051mm)": {
+                            "Surface Roughness": {
+                                "125uin/3.2um Ra": {},
+                                "63uin/1.6um Ra": {},
+                                "32uin/0.8um Ra": {},
+                                "16uin/0.4um Ra": {}
+                            }
+                        },
+                        "+/-.001\"(+/-.025mm)": {
+                            "Surface Roughness": {
+                                "16uin/0.4um Ra": {},
+                                "32uin/0.8um Ra": {},
+                                "63uin/1.6um Ra": {},
+                                "125uin/3.2um Ra": {}
+                            }
+                        }
+                    }
+                },
+                "Case Harden": {
+                    "Tolerance": {
+                        "+/-.005\"(+/-.127mm)": {
+                            "Surface Roughness": {
+                                "125uin/3.2um Ra": {},
+                                "63uin/1.6um Ra": {},
+                                "32uin/0.8um Ra": {},
+                                "16uin/0.4um Ra": {}
+                            }
+                        },
+                        "+/-.004\"(+/-102mm)": {
+                            "Surface Roughness": {
+                                "125uin/3.2um Ra": {},
+                                "63uin/1.6um Ra": {},
+                                "32uin/0.8um Ra": {},
+                                "16uin/0.4um Ra": {}
+                            }
+                        },
+                        "+/-.003\"(+/-.076mm)": {
+                            "Surface Roughness": {
+                                "125uin/3.2um Ra": {},
+                                "63uin/1.6um Ra": {},
+                                "32uin/0.8um Ra": {},
+                                "16uin/0.4um Ra": {}
+                            }
+                        },
+                        "+/-.002\"(+/-.051mm)": {
+                            "Surface Roughness": {
+                                "125uin/3.2um Ra": {},
+                                "63uin/1.6um Ra": {},
+                                "32uin/0.8um Ra": {},
+                                "16uin/0.4um Ra": {}
+                            }
+                        },
+                        "+/-.001\"(+/-.025mm)": {
+                            "Surface Roughness": {
+                                "16uin/0.4um Ra": {},
+                                "32uin/0.8um Ra": {},
+                                "63uin/1.6um Ra": {},
+                                "125uin/3.2um Ra": {}
+                            }
+                        }
+                    }
+                },
+                "Temper": {
+                    "Tolerance": {
+                        "+/-.005\"(+/-.127mm)": {
+                            "Surface Roughness": {
+                                "125uin/3.2um Ra": {},
+                                "63uin/1.6um Ra": {},
+                                "32uin/0.8um Ra": {},
+                                "16uin/0.4um Ra": {}
+                            }
+                        },
+                        "+/-.004\"(+/-102mm)": {
+                            "Surface Roughness": {
+                                "125uin/3.2um Ra": {},
+                                "63uin/1.6um Ra": {},
+                                "32uin/0.8um Ra": {},
+                                "16uin/0.4um Ra": {}
+                            }
+                        },
+                        "+/-.003\"(+/-.076mm)": {
+                            "Surface Roughness": {
+                                "125uin/3.2um Ra": {},
+                                "63uin/1.6um Ra": {},
+                                "32uin/0.8um Ra": {},
+                                "16uin/0.4um Ra": {}
+                            }
+                        },
+                        "+/-.002\"(+/-.051mm)": {
+                            "Surface Roughness": {
+                                "125uin/3.2um Ra": {},
+                                "63uin/1.6um Ra": {},
+                                "32uin/0.8um Ra": {},
+                                "16uin/0.4um Ra": {}
+                            }
+                        },
+                        "+/-.001\"(+/-.025mm)": {
+                            "Surface Roughness": {
+                                "16uin/0.4um Ra": {},
+                                "32uin/0.8um Ra": {},
+                                "63uin/1.6um Ra": {},
+                                "125uin/3.2um Ra": {}
+                            }
+                        }
+                    }
+                },
+                "Through Harden": {
+                    "Tolerance": {
+                        "+/-.005\"(+/-.127mm)": {
+                            "Surface Roughness": {
+                                "125uin/3.2um Ra": {},
+                                "63uin/1.6um Ra": {},
+                                "32uin/0.8um Ra": {},
+                                "16uin/0.4um Ra": {}
+                            }
+                        },
+                        "+/-.004\"(+/-102mm)": {
+                            "Surface Roughness": {
+                                "125uin/3.2um Ra": {},
+                                "63uin/1.6um Ra": {},
+                                "32uin/0.8um Ra": {},
+                                "16uin/0.4um Ra": {}
+                            }
+                        },
+                        "+/-.003\"(+/-.076mm)": {
+                            "Surface Roughness": {
+                                "125uin/3.2um Ra": {},
+                                "63uin/1.6um Ra": {},
+                                "32uin/0.8um Ra": {},
+                                "16uin/0.4um Ra": {}
+                            }
+                        },
+                        "+/-.002\"(+/-.051mm)": {
+                            "Surface Roughness": {
+                                "125uin/3.2um Ra": {},
+                                "63uin/1.6um Ra": {},
+                                "32uin/0.8um Ra": {},
+                                "16uin/0.4um Ra": {}
+                            }
+                        },
+                        "+/-.001\"(+/-.025mm)": {
+                            "Surface Roughness": {
+                                "16uin/0.4um Ra": {},
+                                "32uin/0.8um Ra": {},
+                                "63uin/1.6um Ra": {},
+                                "125uin/3.2um Ra": {}
+                            }
+                        }
+                    }
+                },
+                "Bead Blast": {
+                    "Tolerance": {
+                        "+/-.005\"(+/-.127mm)": {
+                            "Surface Roughness": {
+                                "125uin/3.2um Ra": {},
+                                "63uin/1.6um Ra": {},
+                                "32uin/0.8um Ra": {},
+                                "16uin/0.4um Ra": {}
+                            }
+                        },
+                        "+/-.004\"(+/-102mm)": {
+                            "Surface Roughness": {
+                                "125uin/3.2um Ra": {},
+                                "63uin/1.6um Ra": {},
+                                "32uin/0.8um Ra": {},
+                                "16uin/0.4um Ra": {}
+                            }
+                        },
+                        "+/-.003\"(+/-.076mm)": {
+                            "Surface Roughness": {
+                                "125uin/3.2um Ra": {},
+                                "63uin/1.6um Ra": {},
+                                "32uin/0.8um Ra": {},
+                                "16uin/0.4um Ra": {}
+                            }
+                        },
+                        "+/-.002\"(+/-.051mm)": {
+                            "Surface Roughness": {
+                                "125uin/3.2um Ra": {},
+                                "63uin/1.6um Ra": {},
+                                "32uin/0.8um Ra": {},
+                                "16uin/0.4um Ra": {}
+                            }
+                        },
+                        "+/-.001\"(+/-.025mm)": {
+                            "Surface Roughness": {
+                                "16uin/0.4um Ra": {},
+                                "32uin/0.8um Ra": {},
+                                "63uin/1.6um Ra": {},
+                                "125uin/3.2um Ra": {}
+                            }
+                        }
+                    }
+                },
+                "Tumbled": {
+                    "Tolerance": {
+                        "+/-.005\"(+/-.127mm)": {
+                            "Surface Roughness": {
+                                "125uin/3.2um Ra": {},
+                                "63uin/1.6um Ra": {},
+                                "32uin/0.8um Ra": {},
+                                "16uin/0.4um Ra": {}
+                            }
+                        },
+                        "+/-.004\"(+/-102mm)": {
+                            "Surface Roughness": {
+                                "125uin/3.2um Ra": {},
+                                "63uin/1.6um Ra": {},
+                                "32uin/0.8um Ra": {},
+                                "16uin/0.4um Ra": {}
+                            }
+                        },
+                        "+/-.003\"(+/-.076mm)": {
+                            "Surface Roughness": {
+                                "125uin/3.2um Ra": {},
+                                "63uin/1.6um Ra": {},
+                                "32uin/0.8um Ra": {},
+                                "16uin/0.4um Ra": {}
+                            }
+                        },
+                        "+/-.002\"(+/-.051mm)": {
+                            "Surface Roughness": {
+                                "125uin/3.2um Ra": {},
+                                "63uin/1.6um Ra": {},
+                                "32uin/0.8um Ra": {},
+                                "16uin/0.4um Ra": {}
+                            }
+                        },
+                        "+/-.001\"(+/-.025mm)": {
+                            "Surface Roughness": {
+                                "16uin/0.4um Ra": {},
+                                "32uin/0.8um Ra": {},
+                                "63uin/1.6um Ra": {},
+                                "125uin/3.2um Ra": {}
+                            }
+                        }
+                    }
+                },
+                "Electroless Nickel Plating": {
+                    "Tolerance": {
+                        "+/-.005\"(+/-.127mm)": {
+                            "Surface Roughness": {
+                                "125uin/3.2um Ra": {},
+                                "63uin/1.6um Ra": {},
+                                "32uin/0.8um Ra": {},
+                                "16uin/0.4um Ra": {}
+                            }
+                        },
+                        "+/-.004\"(+/-102mm)": {
+                            "Surface Roughness": {
+                                "125uin/3.2um Ra": {},
+                                "63uin/1.6um Ra": {},
+                                "32uin/0.8um Ra": {},
+                                "16uin/0.4um Ra": {}
+                            }
+                        },
+                        "+/-.003\"(+/-.076mm)": {
+                            "Surface Roughness": {
+                                "125uin/3.2um Ra": {},
+                                "63uin/1.6um Ra": {},
+                                "32uin/0.8um Ra": {},
+                                "16uin/0.4um Ra": {}
+                            }
+                        },
+                        "+/-.002\"(+/-.051mm)": {
+                            "Surface Roughness": {
+                                "125uin/3.2um Ra": {},
+                                "63uin/1.6um Ra": {},
+                                "32uin/0.8um Ra": {},
+                                "16uin/0.4um Ra": {}
+                            }
+                        },
+                        "+/-.001\"(+/-.025mm)": {
+                            "Surface Roughness": {
+                                "16uin/0.4um Ra": {},
+                                "32uin/0.8um Ra": {},
+                                "63uin/1.6um Ra": {},
+                                "125uin/3.2um Ra": {}
+                            }
+                        }
+                    }
+                },
+                "Gold Plating": {
+                    "Tolerance": {
+                        "+/-.005\"(+/-.127mm)": {
+                            "Surface Roughness": {
+                                "125uin/3.2um Ra": {},
+                                "63uin/1.6um Ra": {},
+                                "32uin/0.8um Ra": {},
+                                "16uin/0.4um Ra": {}
+                            }
+                        },
+                        "+/-.004\"(+/-102mm)": {
+                            "Surface Roughness": {
+                                "125uin/3.2um Ra": {},
+                                "63uin/1.6um Ra": {},
+                                "32uin/0.8um Ra": {},
+                                "16uin/0.4um Ra": {}
+                            }
+                        },
+                        "+/-.003\"(+/-.076mm)": {
+                            "Surface Roughness": {
+                                "125uin/3.2um Ra": {},
+                                "63uin/1.6um Ra": {},
+                                "32uin/0.8um Ra": {},
+                                "16uin/0.4um Ra": {}
+                            }
+                        },
+                        "+/-.002\"(+/-.051mm)": {
+                            "Surface Roughness": {
+                                "125uin/3.2um Ra": {},
+                                "63uin/1.6um Ra": {},
+                                "32uin/0.8um Ra": {},
+                                "16uin/0.4um Ra": {}
+                            }
+                        },
+                        "+/-.001\"(+/-.025mm)": {
+                            "Surface Roughness": {
+                                "16uin/0.4um Ra": {},
+                                "32uin/0.8um Ra": {},
+                                "63uin/1.6um Ra": {},
+                                "125uin/3.2um Ra": {}
+                            }
+                        }
+                    }
+                },
+                "Silver Plating": {
+                    "Tolerance": {
+                        "+/-.005\"(+/-.127mm)": {
+                            "Surface Roughness": {
+                                "125uin/3.2um Ra": {},
+                                "63uin/1.6um Ra": {},
+                                "32uin/0.8um Ra": {},
+                                "16uin/0.4um Ra": {}
+                            }
+                        },
+                        "+/-.004\"(+/-102mm)": {
+                            "Surface Roughness": {
+                                "125uin/3.2um Ra": {},
+                                "63uin/1.6um Ra": {},
+                                "32uin/0.8um Ra": {},
+                                "16uin/0.4um Ra": {}
+                            }
+                        },
+                        "+/-.003\"(+/-.076mm)": {
+                            "Surface Roughness": {
+                                "125uin/3.2um Ra": {},
+                                "63uin/1.6um Ra": {},
+                                "32uin/0.8um Ra": {},
+                                "16uin/0.4um Ra": {}
+                            }
+                        },
+                        "+/-.002\"(+/-.051mm)": {
+                            "Surface Roughness": {
+                                "125uin/3.2um Ra": {},
+                                "63uin/1.6um Ra": {},
+                                "32uin/0.8um Ra": {},
+                                "16uin/0.4um Ra": {}
+                            }
+                        },
+                        "+/-.001\"(+/-.025mm)": {
+                            "Surface Roughness": {
+                                "16uin/0.4um Ra": {},
+                                "32uin/0.8um Ra": {},
+                                "63uin/1.6um Ra": {},
+                                "125uin/3.2um Ra": {}
+                            }
+                        }
+                    }
+                },
+                "Zinc Plating": {
+                    "Tolerance": {
+                        "+/-.005\"(+/-.127mm)": {
+                            "Surface Roughness": {
+                                "125uin/3.2um Ra": {},
+                                "63uin/1.6um Ra": {},
+                                "32uin/0.8um Ra": {},
+                                "16uin/0.4um Ra": {}
+                            }
+                        },
+                        "+/-.004\"(+/-102mm)": {
+                            "Surface Roughness": {
+                                "125uin/3.2um Ra": {},
+                                "63uin/1.6um Ra": {},
+                                "32uin/0.8um Ra": {},
+                                "16uin/0.4um Ra": {}
+                            }
+                        },
+                        "+/-.003\"(+/-.076mm)": {
+                            "Surface Roughness": {
+                                "125uin/3.2um Ra": {},
+                                "63uin/1.6um Ra": {},
+                                "32uin/0.8um Ra": {},
+                                "16uin/0.4um Ra": {}
+                            }
+                        },
+                        "+/-.002\"(+/-.051mm)": {
+                            "Surface Roughness": {
+                                "125uin/3.2um Ra": {},
+                                "63uin/1.6um Ra": {},
+                                "32uin/0.8um Ra": {},
+                                "16uin/0.4um Ra": {}
+                            }
+                        },
+                        "+/-.001\"(+/-.025mm)": {
+                            "Surface Roughness": {
+                                "16uin/0.4um Ra": {},
+                                "32uin/0.8um Ra": {},
+                                "63uin/1.6um Ra": {},
+                                "125uin/3.2um Ra": {}
+                            }
+                        }
+                    }
+                },
+                "Electropolish": {
+                    "Tolerance": {
+                        "+/-.005\"(+/-.127mm)": {
+                            "Surface Roughness": {
+                                "125uin/3.2um Ra": {},
+                                "63uin/1.6um Ra": {},
+                                "32uin/0.8um Ra": {},
+                                "16uin/0.4um Ra": {}
+                            }
+                        },
+                        "+/-.004\"(+/-102mm)": {
+                            "Surface Roughness": {
+                                "125uin/3.2um Ra": {},
+                                "63uin/1.6um Ra": {},
+                                "32uin/0.8um Ra": {},
+                                "16uin/0.4um Ra": {}
+                            }
+                        },
+                        "+/-.003\"(+/-.076mm)": {
+                            "Surface Roughness": {
+                                "125uin/3.2um Ra": {},
+                                "63uin/1.6um Ra": {},
+                                "32uin/0.8um Ra": {},
+                                "16uin/0.4um Ra": {}
+                            }
+                        },
+                        "+/-.002\"(+/-.051mm)": {
+                            "Surface Roughness": {
+                                "125uin/3.2um Ra": {},
+                                "63uin/1.6um Ra": {},
+                                "32uin/0.8um Ra": {},
+                                "16uin/0.4um Ra": {}
+                            }
+                        },
+                        "+/-.001\"(+/-.025mm)": {
+                            "Surface Roughness": {
+                                "16uin/0.4um Ra": {},
+                                "32uin/0.8um Ra": {},
+                                "63uin/1.6um Ra": {},
+                                "125uin/3.2um Ra": {}
+                            }
+                        }
+                    }
+                },
+                "Powder Coating": {
+                    "Tolerance": {
+                        "+/-.005\"(+/-.127mm)": {
+                            "Surface Roughness": {
+                                "125uin/3.2um Ra": {},
+                                "63uin/1.6um Ra": {},
+                                "32uin/0.8um Ra": {},
+                                "16uin/0.4um Ra": {}
+                            }
+                        },
+                        "+/-.004\"(+/-102mm)": {
+                            "Surface Roughness": {
+                                "125uin/3.2um Ra": {},
+                                "63uin/1.6um Ra": {},
+                                "32uin/0.8um Ra": {},
+                                "16uin/0.4um Ra": {}
+                            }
+                        },
+                        "+/-.003\"(+/-.076mm)": {
+                            "Surface Roughness": {
+                                "125uin/3.2um Ra": {},
+                                "63uin/1.6um Ra": {},
+                                "32uin/0.8um Ra": {},
+                                "16uin/0.4um Ra": {}
+                            }
+                        },
+                        "+/-.002\"(+/-.051mm)": {
+                            "Surface Roughness": {
+                                "125uin/3.2um Ra": {},
+                                "63uin/1.6um Ra": {},
+                                "32uin/0.8um Ra": {},
+                                "16uin/0.4um Ra": {}
+                            }
+                        },
+                        "+/-.001\"(+/-.025mm)": {
+                            "Surface Roughness": {
+                                "16uin/0.4um Ra": {},
+                                "32uin/0.8um Ra": {},
+                                "63uin/1.6um Ra": {},
+                                "125uin/3.2um Ra": {}
+                            }
+                        }
+                    }
+                },
+                "Other": {
+                    "Tolerance": {
+                        "+/-.005\"(+/-.127mm)": {
+                            "Surface Roughness": {
+                                "125uin/3.2um Ra": {},
+                                "63uin/1.6um Ra": {},
+                                "32uin/0.8um Ra": {},
+                                "16uin/0.4um Ra": {}
+                            }
+                        },
+                        "+/-.004\"(+/-102mm)": {
+                            "Surface Roughness": {
+                                "125uin/3.2um Ra": {},
+                                "63uin/1.6um Ra": {},
+                                "32uin/0.8um Ra": {},
+                                "16uin/0.4um Ra": {}
+                            }
+                        },
+                        "+/-.003\"(+/-.076mm)": {
+                            "Surface Roughness": {
+                                "125uin/3.2um Ra": {},
+                                "63uin/1.6um Ra": {},
+                                "32uin/0.8um Ra": {},
+                                "16uin/0.4um Ra": {}
+                            }
+                        },
+                        "+/-.002\"(+/-.051mm)": {
+                            "Surface Roughness": {
+                                "125uin/3.2um Ra": {},
+                                "63uin/1.6um Ra": {},
+                                "32uin/0.8um Ra": {},
+                                "16uin/0.4um Ra": {}
+                            }
+                        },
+                        "+/-.001\"(+/-.025mm)": {
+                            "Surface Roughness": {
+                                "16uin/0.4um Ra": {},
+                                "32uin/0.8um Ra": {},
+                                "63uin/1.6um Ra": {},
+                                "125uin/3.2um Ra": {}
+                            }
+                        }
+                    }
+                }
+            }
+        },
+        "Aluminum 6061-T6511": {
+            "Finish": {
+                "Other": {
+                    "Tolerance": {
+                        "+/-.005\"(+/-.127mm)": {
+                            "Surface Roughness": {
+                                "125uin/3.2um Ra": {},
+                                "63uin/1.6um Ra": {},
+                                "16uin/0.4um Ra": {},
+                                "32uin/0.8um Ra": {}
+                            }
+                        },
+                        "+/-.004\"(+/-102mm)": {
+                            "Surface Roughness": {
+                                "32uin/0.8um Ra": {}
+                            }
+                        },
+                        "+/-.003\"(+/-.076mm)": {
+                            "Surface Roughness": {
+                                "32uin/0.8um Ra": {}
+                            }
+                        },
+                        "+/-.002\"(+/-.051mm)": {
+                            "Surface Roughness": {
+                                "32uin/0.8um Ra": {}
+                            }
+                        },
+                        "+/-.001\"(+/-.025mm)": {
+                            "Surface Roughness": {
+                                "32uin/0.8um Ra": {}
+                            }
+                        }
+                    }
+                },
+                "Standard": {
+                    "Tolerance": {
+                        "+/-.003\"(+/-.076mm)": {
+                            "Surface Roughness": {
+                                "32uin/0.8um Ra": {}
+                            }
+                        }
+                    }
+                },
+                "Black Anodize": {
+                    "Tolerance": {
+                        "+/-.003\"(+/-.076mm)": {
+                            "Surface Roughness": {
+                                "32uin/0.8um Ra": {}
+                            }
+                        }
+                    }
+                },
+                "Black Hardcoat Anodize": {
+                    "Tolerance": {
+                        "+/-.003\"(+/-.076mm)": {
+                            "Surface Roughness": {
+                                "32uin/0.8um Ra": {}
+                            }
+                        }
+                    }
+                },
+                "Clear Anodize": {
+                    "Tolerance": {
+                        "+/-.003\"(+/-.076mm)": {
+                            "Surface Roughness": {
+                                "32uin/0.8um Ra": {}
+                            }
+                        }
+                    }
+                },
+                "Blue Anodize": {
+                    "Tolerance": {
+                        "+/-.003\"(+/-.076mm)": {
+                            "Surface Roughness": {
+                                "32uin/0.8um Ra": {}
+                            }
+                        }
+                    }
+                },
+                "Clear Hardcoat Anodize": {
+                    "Tolerance": {
+                        "+/-.003\"(+/-.076mm)": {
+                            "Surface Roughness": {
+                                "32uin/0.8um Ra": {}
+                            }
+                        }
+                    }
+                },
+                "Gray Hardcoat Anodize": {
+                    "Tolerance": {
+                        "+/-.003\"(+/-.076mm)": {
+                            "Surface Roughness": {
+                                "32uin/0.8um Ra": {}
+                            }
+                        }
+                    }
+                }
+            }
+        },
+        "Aluminum 6061-T651": {
+            "Finish": {
+                "Gray Hardcoat Anodize": {
+                    "Tolerance": {
+                        "+/-.003\"(+/-.076mm)": {
+                            "Surface Roughness": {
+                                "32uin/0.8um Ra": {}
+                            }
+                        }
+                    }
+                }
+            }
+        },
+        "Aluminum 6063": {
+            "Finish": {
+                "Gray Hardcoat Anodize": {
+                    "Tolerance": {
+                        "+/-.003\"(+/-.076mm)": {
+                            "Surface Roughness": {
+                                "32uin/0.8um Ra": {}
+                            }
+                        }
+                    }
+                }
+            }
+        },
+        "Aluminum 7050": {
+            "Finish": {
+                "Gray Hardcoat Anodize": {
+                    "Tolerance": {
+                        "+/-.003\"(+/-.076mm)": {
+                            "Surface Roughness": {
+                                "32uin/0.8um Ra": {}
+                            }
+                        }
+                    }
+                }
+            }
+        },
+        "Aluminum 7075-T6": {
+            "Finish": {
+                "Gray Hardcoat Anodize": {
+                    "Tolerance": {
+                        "+/-.003\"(+/-.076mm)": {
+                            "Surface Roughness": {
+                                "32uin/0.8um Ra": {}
+                            }
+                        }
+                    }
+                }
+            }
+        },
+        "Aluminum 7075-T7351": {
+            "Finish": {
+                "Gray Hardcoat Anodize": {
+                    "Tolerance": {
+                        "+/-.003\"(+/-.076mm)": {
+                            "Surface Roughness": {
+                                "32uin/0.8um Ra": {}
+                            }
+                        }
+                    }
+                }
+            }
+        },
+        "Aluminum MIC-6": {
+            "Finish": {
+                "Gray Hardcoat Anodize": {
+                    "Tolerance": {
+                        "+/-.003\"(+/-.076mm)": {
+                            "Surface Roughness": {
+                                "32uin/0.8um Ra": {}
+                            }
+                        }
+                    }
+                }
+            }
+        },
+        "Copper 101": {
+            "Tolerance": {
+                "+/-.003\"(+/-.076mm)": {
+                    "Surface Roughness": {
+                        "32uin/0.8um Ra": {}
+                    }
+                }
+            },
+            "Finish": {
+                "Standard": {
+                    "Tolerance": {
+                        "+/-.003\"(+/-.076mm)": {
+                            "Surface Roughness": {
+                                "32uin/0.8um Ra": {}
+                            }
+                        },
+                        "+/-.001\"(+/-.025mm)": {
+                            "Surface Roughness": {
+                                "16uin/0.4um Ra": {}
+                            }
+                        }
+                    }
+                },
+                "Passivate": {
+                    "Tolerance": {
+                        "+/-.003\"(+/-.076mm)": {
+                            "Surface Roughness": {
+                                "32uin/0.8um Ra": {},
+                                "125uin/3.2um Ra": {},
+                                "16uin/0.4um Ra": {}
+                            }
+                        },
+                        "+/-.005\"(+/-.127mm)": {
+                            "Surface Roughness": {
+                                "125uin/3.2um Ra": {},
+                                "63uin/1.6um Ra": {},
+                                "32uin/0.8um Ra": {},
+                                "16uin/0.4um Ra": {}
+                            }
+                        },
+                        "+/-.004\"(+/-102mm)": {
+                            "Surface Roughness": {
+                                "16uin/0.4um Ra": {}
+                            }
+                        },
+                        "+/-.002\"(+/-.051mm)": {
+                            "Surface Roughness": {
+                                "16uin/0.4um Ra": {}
+                            }
+                        },
+                        "+/-.001\"(+/-.025mm)": {
+                            "Surface Roughness": {
+                                "16uin/0.4um Ra": {}
+                            }
+                        }
+                    }
+                },
+                "Temper": {
+                    "Tolerance": {
+                        "+/-.001\"(+/-.025mm)": {
+                            "Surface Roughness": {
+                                "16uin/0.4um Ra": {}
+                            }
+                        }
+                    }
+                },
+                "Bead Blast": {
+                    "Tolerance": {
+                        "+/-.001\"(+/-.025mm)": {
+                            "Surface Roughness": {
+                                "16uin/0.4um Ra": {}
+                            }
+                        }
+                    }
+                },
+                "Tumbled": {
+                    "Tolerance": {
+                        "+/-.001\"(+/-.025mm)": {
+                            "Surface Roughness": {
+                                "16uin/0.4um Ra": {}
+                            }
+                        }
+                    }
+                },
+                "Electroless Nickel Plating": {
+                    "Tolerance": {
+                        "+/-.001\"(+/-.025mm)": {
+                            "Surface Roughness": {
+                                "16uin/0.4um Ra": {}
+                            }
+                        }
+                    }
+                },
+                "Gold Plating": {
+                    "Tolerance": {
+                        "+/-.001\"(+/-.025mm)": {
+                            "Surface Roughness": {
+                                "16uin/0.4um Ra": {}
+                            }
+                        }
+                    }
+                },
+                "Powder Coating": {
+                    "Tolerance": {
+                        "+/-.001\"(+/-.025mm)": {
+                            "Surface Roughness": {
+                                "16uin/0.4um Ra": {}
+                            }
+                        }
+                    }
+                },
+                "Other": {
+                    "Tolerance": {
+                        "+/-.001\"(+/-.025mm)": {
+                            "Surface Roughness": {
+                                "16uin/0.4um Ra": {}
+                            }
+                        }
+                    }
+                },
+                "Silver Plating": {
+                    "Tolerance": {
+                        "+/-.001\"(+/-.025mm)": {
+                            "Surface Roughness": {
+                                "16uin/0.4um Ra": {}
+                            }
+                        }
+                    }
+                },
+                "Zinc Plating": {
+                    "Tolerance": {
+                        "+/-.001\"(+/-.025mm)": {
+                            "Surface Roughness": {
+                                "16uin/0.4um Ra": {}
+                            }
+                        }
+                    }
+                },
+                "Electropolish": {
+                    "Tolerance": {
+                        "+/-.001\"(+/-.025mm)": {
+                            "Surface Roughness": {
+                                "16uin/0.4um Ra": {}
+                            }
+                        }
+                    }
+                }
+            }
+        },
+        "Copper 260 (Brass)": {
+            "Finish": {
+                "Other": {
+                    "Tolerance": {
+                        "+/-.001\"(+/-.025mm)": {
+                            "Surface Roughness": {
+                                "16uin/0.4um Ra": {}
+                            }
+                        }
+                    }
+                },
+                "Standard": {
+                    "Tolerance": {
+                        "+/-.001\"(+/-.025mm)": {
+                            "Surface Roughness": {
+                                "16uin/0.4um Ra": {}
+                            }
+                        }
+                    }
+                },
+                "Passivate": {
+                    "Tolerance": {
+                        "+/-.001\"(+/-.025mm)": {
+                            "Surface Roughness": {
+                                "16uin/0.4um Ra": {}
+                            }
+                        }
+                    }
+                }
+            }
+        },
+        "Copper C110": {
+            "Finish": {
+                "Standard": {
+                    "Tolerance": {
+                        "+/-.001\"(+/-.025mm)": {
+                            "Surface Roughness": {
+                                "16uin/0.4um Ra": {}
+                            }
+                        }
+                    }
+                }
+            }
+        },
+        "Copper C932 (Bronze)": {
+            "Finish": {
+                "Standard": {
+                    "Tolerance": {
+                        "+/-.001\"(+/-.025mm)": {
+                            "Surface Roughness": {
+                                "16uin/0.4um Ra": {}
+                            }
+                        }
+                    }
+                }
+            }
+        },
+        "Copper C360 (Brass)": {
+            "Finish": {
+                "Standard": {
+                    "Tolerance": {
+                        "+/-.001\"(+/-.025mm)": {
+                            "Surface Roughness": {
+                                "16uin/0.4um Ra": {}
+                            }
+                        }
+                    }
+                }
+            }
+        },
+        "Garolite G10": {
+            "Finish": {
+                "Standard": {
+                    "Tolerance": {
+                        "+/-.010\"(+/-.254mm)": {}
+                    }
+                },
+                "Bead Blast": {
+                    "Tolerance": {
+                        "+/-.010\"(+/-.254mm)": {}
+                    }
+                },
+                "Other": {
+                    "Tolerance": {
+                        "+/-.010\"(+/-.254mm)": {}
+                    }
+                }
+            }
+        },
+        "ABS": {
+            "Color": {
+                "Black": {
+                    "Finish": {
+                        "Standard": {
+                            "Tolerance": {
+                                "+/-.010\"(+/-.254mm)": {},
+                                "+/-.002\"(+/-.051mm)": {
+                                    "Surface Roughness": {
+                                        "125uin/3.2um Ra": {}
+                                    }
+                                }
+                            }
+                        },
+                        "Bead Blast": {
+                            "Tolerance": {
+                                "+/-.010\"(+/-.254mm)": {}
+                            }
+                        },
+                        "Other": {
+                            "Tolerance": {
+                                "+/-.010\"(+/-.254mm)": {
+                                    "Surface Roughness": {
+                                        "125uin/3.2um Ra": {},
+                                        "63uin/1.6um Ra": {},
+                                        "32uin/0.8um Ra": {}
+                                    }
+                                },
+                                "+/-.008\"(+/-203mm)": {
+                                    "Surface Roughness": {
+                                        "32uin/0.8um Ra": {},
+                                        "125uin/3.2um Ra": {}
+                                    }
+                                },
+                                "+/-.006\"(+/-.152mm)": {
+                                    "Surface Roughness": {
+                                        "125uin/3.2um Ra": {},
+                                        "63uin/1.6um Ra": {},
+                                        "32uin/0.8um Ra": {}
+                                    }
+                                },
+                                "+/-.004\"(+/-.102mm)": {
+                                    "Surface Roughness": {
+                                        "32uin/0.8um Ra": {},
+                                        "125uin/3.2um Ra": {},
+                                        "63uin/1.6um Ra": {}
+                                    }
+                                },
+                                "+/-.002\"(+/-.051mm)": {
+                                    "Surface Roughness": {
+                                        "32uin/0.8um Ra": {},
+                                        "63uin/1.6um Ra": {},
+                                        "125uin/3.2um Ra": {}
+                                    }
+                                }
+                            }
+                        }
+                    }
+                }
+            }
+        },
+        "Acrylic": {
+            "Color": {
+                "Clear": {
+                    "Finish": {
+                        "Standard": {
+                            "Tolerance": {
+                                "+/-.010\"(+/-.254mm)": {
+                                    "Surface Roughness": {
+                                        "125uin/3.2um Ra": {}
+                                    }
+                                },
+                                "+/-.008\"(+/-203mm)": {
+                                    "Surface Roughness": {
+                                        "125uin/3.2um Ra": {}
+                                    }
+                                },
+                                "+/-.006\"(+/-.152mm)": {
+                                    "Surface Roughness": {
+                                        "125uin/3.2um Ra": {}
+                                    }
+                                },
+                                "+/-.004\"(+/-.102mm)": {
+                                    "Surface Roughness": {
+                                        "125uin/3.2um Ra": {},
+                                        "63uin/1.6um Ra": {},
+                                        "32uin/0.8um Ra": {}
+                                    }
+                                },
+                                "+/-.002\"(+/-.051mm)": {
+                                    "Surface Roughness": {
+                                        "125uin/3.2um Ra": {},
+                                        "63uin/1.6um Ra": {},
+                                        "32uin/0.8um Ra": {}
+                                    }
+                                }
+                            }
+                        }
+                    }
+                }
+            }
+        },
+        "Delrin (Acetal)": {
+            "Color": {
+                "Black": {
+                    "Finish": {
+                        "Standard": {
+                            "Tolerance": {
+                                "+/-.010\"(+/-.254mm)": {
+                                    "Surface Roughness": {
+                                        "125uin/3.2um Ra": {},
+                                        "63uin/1.6um Ra": {},
+                                        "32uin/0.8um Ra": {}
+                                    }
+                                },
+                                "+/-.008\"(+/-203mm)": {
+                                    "Surface Roughness": {
+                                        "125uin/3.2um Ra": {},
+                                        "63uin/1.6um Ra": {},
+                                        "32uin/0.8um Ra": {}
+                                    }
+                                },
+                                "+/-.006\"(+/-.152mm)": {
+                                    "Surface Roughness": {
+                                        "125uin/3.2um Ra": {},
+                                        "63uin/1.6um Ra": {},
+                                        "32uin/0.8um Ra": {}
+                                    }
+                                }
+                            }
+                        },
+                        "Bead Blast": {
+                            "Tolerance": {
+                                "+/-.010\"(+/-.254mm)": {
+                                    "Surface Roughness": {
+                                        "125uin/3.2um Ra": {},
+                                        "63uin/1.6um Ra": {},
+                                        "32uin/0.8um Ra": {}
+                                    }
+                                },
+                                "+/-.008\"(+/-203mm)": {
+                                    "Surface Roughness": {
+                                        "125uin/3.2um Ra": {},
+                                        "63uin/1.6um Ra": {},
+                                        "32uin/0.8um Ra": {}
+                                    }
+                                },
+                                "+/-.006\"(+/-.152mm)": {
+                                    "Surface Roughness": {
+                                        "125uin/3.2um Ra": {},
+                                        "63uin/1.6um Ra": {},
+                                        "32uin/0.8um Ra": {}
+                                    }
+                                },
+                                "+/-.004\"(+/-.102mm)": {
+                                    "Surface Roughness": {
+                                        "32uin/0.8um Ra": {},
+                                        "125uin/3.2um Ra": {},
+                                        "63uin/1.6um Ra": {}
+                                    }
+                                }
+                            }
+                        },
+                        "Other": {
+                            "Tolerance": {
+                                "+/-.010\"(+/-.254mm)": {
+                                    "Surface Roughness": {
+                                        "125uin/3.2um Ra": {},
+                                        "63uin/1.6um Ra": {},
+                                        "32uin/0.8um Ra": {}
+                                    }
+                                }
+                            }
+                        }
+                    }
+                }
+            }
+        },
+        "HDPE": {
+            "Finish": {
+                "Standard": {
+                    "Tolerance": {
+                        "+/-.010\"(+/-.254mm)": {
+                            "Surface Roughness": {
+                                "125uin/3.2um Ra": {}
+                            }
+                        }
+                    }
+                }
+            }
+        },
+        "Nylon 6/6": {
+            "Finish": {
+                "Standard": {
+                    "Tolerance": {
+                        "+/-.010\"(+/-.254mm)": {
+                            "Surface Roughness": {
+                                "125uin/3.2um Ra": {}
+                            }
+                        }
+                    }
+                }
+            }
+        },
+        "PC (Polycarbonate)": {
+            "Color": {
+                "Clear": {
+                    "Finish": {
+                        "Standard": {
+                            "Tolerance": {
+                                "+/-.010\"(+/-.254mm)": {
+                                    "Surface Roughness": {
+                                        "125uin/3.2um Ra": {}
+                                    }
+                                }
+                            }
+                        },
+                        "Bead Blast": {
+                            "Tolerance": {
+                                "+/-.010\"(+/-.254mm)": {
+                                    "Surface Roughness": {
+                                        "125uin/3.2um Ra": {}
+                                    }
+                                }
+                            }
+                        },
+                        "Other": {
+                            "Tolerance": {
+                                "+/-.010\"(+/-.254mm)": {
+                                    "Surface Roughness": {
+                                        "125uin/3.2um Ra": {}
+                                    }
+                                }
+                            }
+                        }
+                    }
+                }
+            }
+        },
+        "PEEK": {
+            "Finish": {
+                "Standard": {
+                    "Tolerance": {
+                        "+/-.010\"(+/-.254mm)": {
+                            "Surface Roughness": {
+                                "125uin/3.2um Ra": {}
+                            }
+                        }
+                    }
+                },
+                "Bead Blast": {
+                    "Tolerance": {
+                        "+/-.010\"(+/-.254mm)": {
+                            "Surface Roughness": {
+                                "125uin/3.2um Ra": {}
+                            }
+                        }
+                    }
+                },
+                "Other": {
+                    "Tolerance": {
+                        "+/-.010\"(+/-.254mm)": {
+                            "Surface Roughness": {
+                                "125uin/3.2um Ra": {}
+                            }
+                        }
+                    }
+                }
+            }
+        },
+        "Polypropylene": {
+            "Finish": {
+                "Standard": {
+                    "Tolerance": {
+                        "+/-.010\"(+/-.254mm)": {
+                            "Surface Roughness": {
+                                "125uin/3.2um Ra": {}
+                            }
+                        }
+                    }
+                },
+                "Bead Blast": {
+                    "Tolerance": {
+                        "+/-.010\"(+/-.254mm)": {
+                            "Surface Roughness": {
+                                "125uin/3.2um Ra": {}
+                            }
+                        }
+                    }
+                },
+                "Other": {
+                    "Tolerance": {
+                        "+/-.010\"(+/-.254mm)": {
+                            "Surface Roughness": {
+                                "125uin/3.2um Ra": {}
+                            }
+                        }
+                    }
+                }
+            }
+        },
+        "PTFE (Teflon)": {
+            "Finish": {
+                "Standard": {
+                    "Tolerance": {
+                        "+/-.010\"(+/-.254mm)": {
+                            "Surface Roughness": {
+                                "125uin/3.2um Ra": {}
+                            }
+                        }
+                    }
+                },
+                "Bead Blast": {
+                    "Tolerance": {
+                        "+/-.010\"(+/-.254mm)": {
+                            "Surface Roughness": {
+                                "125uin/3.2um Ra": {}
+                            }
+                        }
+                    }
+                },
+                "Other": {
+                    "Tolerance": {
+                        "+/-.010\"(+/-.254mm)": {
+                            "Surface Roughness": {
+                                "125uin/3.2um Ra": {}
+                            }
+                        }
+                    }
+                }
+            }
+        },
+        "PVC": {
+            "Finish": {
+                "Standard": {
+                    "Tolerance": {
+                        "+/-.010\"(+/-.254mm)": {
+                            "Surface Roughness": {
+                                "125uin/3.2um Ra": {}
+                            }
+                        }
+                    }
+                },
+                "Bead Blast": {
+                    "Tolerance": {
+                        "+/-.010\"(+/-.254mm)": {
+                            "Surface Roughness": {
+                                "125uin/3.2um Ra": {}
+                            }
+                        }
+                    }
+                },
+                "Other": {
+                    "Tolerance": {
+                        "+/-.010\"(+/-.254mm)": {
+                            "Surface Roughness": {
+                                "125uin/3.2um Ra": {}
+                            }
+                        }
+                    }
+                }
+            }
+        },
+        "UHMW PE": {
+            "Color": {
+                "Black": {
+                    "Finish": {
+                        "Other": {
+                            "Tolerance": {
+                                "+/-.010\"(+/-.254mm)": {
+                                    "Surface Roughness": {
+                                        "125uin/3.2um Ra": {}
+                                    }
+                                }
+                            }
+                        },
+                        "Standard": {
+                            "Tolerance": {
+                                "+/-.010\"(+/-.254mm)": {
+                                    "Surface Roughness": {
+                                        "125uin/3.2um Ra": {}
+                                    }
+                                }
+                            }
+                        },
+                        "Bead Blast": {
+                            "Tolerance": {
+                                "+/-.010\"(+/-.254mm)": {
+                                    "Surface Roughness": {
+                                        "125uin/3.2um Ra": {}
+                                    }
+                                }
+                            }
+                        }
+                    }
+                },
+                "White": {
+                    "Finish": {
+                        "Standard": {
+                            "Tolerance": {
+                                "+/-.010\"(+/-.254mm)": {
+                                    "Surface Roughness": {
+                                        "125uin/3.2um Ra": {}
+                                    }
+                                }
+                            }
+                        },
+                        "Bead Blast": {
+                            "Tolerance": {
+                                "+/-.010\"(+/-.254mm)": {
+                                    "Surface Roughness": {
+                                        "125uin/3.2um Ra": {}
+                                    }
+                                }
+                            }
+                        },
+                        "Other": {
+                            "Tolerance": {
+                                "+/-.010\"(+/-.254mm)": {
+                                    "Surface Roughness": {
+                                        "125uin/3.2um Ra": {}
+                                    }
+                                }
+                            }
+                        }
+                    }
+                }
+            }
+        },
+        "Nitronic 60": {
+            "Finish": {
+                "Standard": {
+                    "Tolerance": {
+                        "+/-.005\"(+/-.127mm)": {
+                            "Surface Roughness": {
+                                "125uin/3.2um Ra": {},
+                                "63uin/1.6um Ra": {},
+                                "32uin/0.8um Ra": {},
+                                "16uin/0.4um Ra": {}
+                            }
+                        },
+                        "+/-.004\"(+/-102mm)": {
+                            "Surface Roughness": {
+                                "16uin/0.4um Ra": {}
+                            }
+                        },
+                        "+/-.003\"(+/-.076mm)": {
+                            "Surface Roughness": {
+                                "16uin/0.4um Ra": {}
+                            }
+                        },
+                        "+/-.002\"(+/-.051mm)": {
+                            "Surface Roughness": {
+                                "16uin/0.4um Ra": {}
+                            }
+                        },
+                        "+/-.001\"(+/-.025mm)": {
+                            "Surface Roughness": {
+                                "16uin/0.4um Ra": {}
+                            }
+                        }
+                    }
+                },
+                "Black Oxide": {
+                    "Tolerance": {
+                        "+/-.001\"(+/-.025mm)": {
+                            "Surface Roughness": {
+                                "16uin/0.4um Ra": {}
+                            }
+                        }
+                    }
+                },
+                "Passivate": {
+                    "Tolerance": {
+                        "+/-.001\"(+/-.025mm)": {
+                            "Surface Roughness": {
+                                "16uin/0.4um Ra": {}
+                            }
+                        },
+                        "+/-.005\"(+/-.127mm)": {
+                            "Surface Roughness": {
+                                "125uin/3.2um Ra": {}
+                            }
+                        }
+                    }
+                },
+                "Annealing": {
+                    "Tolerance": {
+                        "+/-.005\"(+/-.127mm)": {
+                            "Surface Roughness": {
+                                "125uin/3.2um Ra": {}
+                            }
+                        }
+                    }
+                },
+                "Case Harden": {
+                    "Tolerance": {
+                        "+/-.005\"(+/-.127mm)": {
+                            "Surface Roughness": {
+                                "125uin/3.2um Ra": {}
+                            }
+                        }
+                    }
+                }
+            }
+        },
+        "Stainless Steel 15-5": {
+            "Finish": {
+                "Case Harden": {
+                    "Tolerance": {
+                        "+/-.005\"(+/-.127mm)": {
+                            "Surface Roughness": {
+                                "125uin/3.2um Ra": {}
+                            }
+                        }
+                    }
+                }
+            }
+        },
+        "Stainless Steel 17-4": {
+            "Finish": {
+                "Standard": {
+                    "Tolerance": {
+                        "+/-.005\"(+/-.127mm)": {
+                            "Surface Roughness": {
+                                "125uin/3.2um Ra": {}
+                            }
+                        }
+                    }
+                },
+                "Black Oxide": {
+                    "Tolerance": {
+                        "+/-.005\"(+/-.127mm)": {
+                            "Surface Roughness": {
+                                "125uin/3.2um Ra": {}
+                            }
+                        }
+                    }
+                },
+                "Passivate": {
+                    "Tolerance": {
+                        "+/-.005\"(+/-.127mm)": {
+                            "Surface Roughness": {
+                                "125uin/3.2um Ra": {}
+                            }
+                        }
+                    }
+                },
+                "Annealing": {
+                    "Tolerance": {
+                        "+/-.005\"(+/-.127mm)": {
+                            "Surface Roughness": {
+                                "125uin/3.2um Ra": {}
+                            }
+                        }
+                    }
+                },
+                "Case Harden": {
+                    "Tolerance": {
+                        "+/-.005\"(+/-.127mm)": {
+                            "Surface Roughness": {
+                                "125uin/3.2um Ra": {}
+                            }
+                        }
+                    }
+                },
+                "Temper": {
+                    "Tolerance": {
+                        "+/-.005\"(+/-.127mm)": {
+                            "Surface Roughness": {
+                                "125uin/3.2um Ra": {}
+                            }
+                        }
+                    }
+                },
+                "Through Harden": {
+                    "Tolerance": {
+                        "+/-.005\"(+/-.127mm)": {
+                            "Surface Roughness": {
+                                "125uin/3.2um Ra": {}
+                            }
+                        }
+                    }
+                },
+                "Bead Blast": {
+                    "Tolerance": {
+                        "+/-.005\"(+/-.127mm)": {
+                            "Surface Roughness": {
+                                "125uin/3.2um Ra": {}
+                            }
+                        }
+                    }
+                },
+                "Tumbled": {
+                    "Tolerance": {
+                        "+/-.005\"(+/-.127mm)": {
+                            "Surface Roughness": {
+                                "125uin/3.2um Ra": {}
+                            }
+                        }
+                    }
+                },
+                "Electroless Nickel Plating": {
+                    "Tolerance": {
+                        "+/-.005\"(+/-.127mm)": {
+                            "Surface Roughness": {
+                                "125uin/3.2um Ra": {}
+                            }
+                        }
+                    }
+                },
+                "Gold Plating": {
+                    "Tolerance": {
+                        "+/-.005\"(+/-.127mm)": {
+                            "Surface Roughness": {
+                                "125uin/3.2um Ra": {}
+                            }
+                        }
+                    }
+                },
+                "Silver Plating": {
+                    "Tolerance": {
+                        "+/-.005\"(+/-.127mm)": {
+                            "Surface Roughness": {
+                                "125uin/3.2um Ra": {}
+                            }
+                        }
+                    }
+                },
+                "Zinc Plating": {
+                    "Tolerance": {
+                        "+/-.005\"(+/-.127mm)": {
+                            "Surface Roughness": {
+                                "125uin/3.2um Ra": {}
+                            }
+                        }
+                    }
+                },
+                "Electropolish": {
+                    "Tolerance": {
+                        "+/-.005\"(+/-.127mm)": {
+                            "Surface Roughness": {
+                                "125uin/3.2um Ra": {}
+                            }
+                        }
+                    }
+                },
+                "Powder Coating": {
+                    "Tolerance": {
+                        "+/-.005\"(+/-.127mm)": {
+                            "Surface Roughness": {
+                                "125uin/3.2um Ra": {}
+                            }
+                        }
+                    }
+                },
+                "Other": {
+                    "Tolerance": {
+                        "+/-.005\"(+/-.127mm)": {
+                            "Surface Roughness": {
+                                "125uin/3.2um Ra": {}
+                            }
+                        }
+                    }
+                }
+            }
+        },
+        "Stainless Steel 303": {
+            "Finish": {
+                "Other": {
+                    "Tolerance": {
+                        "+/-.005\"(+/-.127mm)": {
+                            "Surface Roughness": {
+                                "125uin/3.2um Ra": {}
+                            }
+                        }
+                    }
+                },
+                "Standard": {
+                    "Tolerance": {
+                        "+/-.005\"(+/-.127mm)": {
+                            "Surface Roughness": {
+                                "125uin/3.2um Ra": {}
+                            }
+                        }
+                    }
+                }
+            }
+        },
+        "Stainless Steel 304": {
+            "Finish": {
+                "Standard": {
+                    "Tolerance": {
+                        "+/-.005\"(+/-.127mm)": {
+                            "Surface Roughness": {
+                                "125uin/3.2um Ra": {}
+                            }
+                        }
+                    }
+                }
+            }
+        },
+        "Stainless Steel 316/316L": {
+            "Finish": {
+                "Standard": {
+                    "Tolerance": {
+                        "+/-.005\"(+/-.127mm)": {
+                            "Surface Roughness": {
+                                "125uin/3.2um Ra": {}
+                            }
+                        }
+                    }
+                }
+            }
+        },
+        "Stainless Steel 410": {
+            "Finish": {
+                "Standard": {
+                    "Tolerance": {
+                        "+/-.005\"(+/-.127mm)": {
+                            "Surface Roughness": {
+                                "125uin/3.2um Ra": {}
+                            }
+                        }
+                    }
+                }
+            }
+        },
+        "Stainless Steel 416": {
+            "Finish": {
+                "Standard": {
+                    "Tolerance": {
+                        "+/-.005\"(+/-.127mm)": {
+                            "Surface Roughness": {
+                                "125uin/3.2um Ra": {}
+                            }
+                        }
+                    }
+                }
+            }
+        },
+        "Stainless Steel 420": {
+            "Finish": {
+                "Standard": {
+                    "Tolerance": {
+                        "+/-.005\"(+/-.127mm)": {
+                            "Surface Roughness": {
+                                "125uin/3.2um Ra": {}
+                            }
+                        }
+                    }
+                }
+            }
+        },
+        "Stainless Steel 440C": {
+            "Finish": {
+                "Standard": {
+                    "Tolerance": {
+                        "+/-.005\"(+/-.127mm)": {
+                            "Surface Roughness": {
+                                "125uin/3.2um Ra": {}
+                            }
+                        }
+                    }
+                }
+            }
+        },
+        "Steel 1018": {
+            "Finish": {
+                "Standard": {
+                    "Tolerance": {
+                        "+/-.005\"(+/-.127mm)": {
+                            "Surface Roughness": {
+                                "125uin/3.2um Ra": {}
+                            }
+                        }
+                    }
+                },
+                "Black Oxide": {
+                    "Tolerance": {
+                        "+/-.005\"(+/-.127mm)": {
+                            "Surface Roughness": {
+                                "125uin/3.2um Ra": {}
+                            }
+                        }
+                    }
+                },
+                "Annealing": {
+                    "Tolerance": {
+                        "+/-.005\"(+/-.127mm)": {
+                            "Surface Roughness": {
+                                "125uin/3.2um Ra": {}
+                            }
+                        }
+                    }
+                },
+                "Case Harden": {
+                    "Tolerance": {
+                        "+/-.005\"(+/-.127mm)": {
+                            "Surface Roughness": {
+                                "125uin/3.2um Ra": {}
+                            }
+                        }
+                    }
+                },
+                "Temper": {
+                    "Tolerance": {
+                        "+/-.005\"(+/-.127mm)": {
+                            "Surface Roughness": {
+                                "125uin/3.2um Ra": {}
+                            }
+                        }
+                    }
+                },
+                "Through Harden": {
+                    "Tolerance": {
+                        "+/-.005\"(+/-.127mm)": {
+                            "Surface Roughness": {
+                                "125uin/3.2um Ra": {}
+                            }
+                        }
+                    }
+                },
+                "Bead Blast": {
+                    "Tolerance": {
+                        "+/-.005\"(+/-.127mm)": {
+                            "Surface Roughness": {
+                                "125uin/3.2um Ra": {}
+                            }
+                        }
+                    }
+                },
+                "Tumbled": {
+                    "Tolerance": {
+                        "+/-.005\"(+/-.127mm)": {
+                            "Surface Roughness": {
+                                "125uin/3.2um Ra": {}
+                            }
+                        }
+                    }
+                },
+                "Electroless Nickel Plating": {
+                    "Tolerance": {
+                        "+/-.005\"(+/-.127mm)": {
+                            "Surface Roughness": {
+                                "125uin/3.2um Ra": {}
+                            }
+                        }
+                    }
+                },
+                "Gold Plating": {
+                    "Tolerance": {
+                        "+/-.005\"(+/-.127mm)": {
+                            "Surface Roughness": {
+                                "125uin/3.2um Ra": {}
+                            }
+                        }
+                    }
+                },
+                "Silver Plating": {
+                    "Tolerance": {
+                        "+/-.005\"(+/-.127mm)": {
+                            "Surface Roughness": {
+                                "125uin/3.2um Ra": {}
+                            }
+                        }
+                    }
+                },
+                "Zinc Plating": {
+                    "Tolerance": {
+                        "+/-.005\"(+/-.127mm)": {
+                            "Surface Roughness": {
+                                "125uin/3.2um Ra": {}
+                            }
+                        }
+                    }
+                },
+                "Powder Coating": {
+                    "Tolerance": {
+                        "+/-.005\"(+/-.127mm)": {
+                            "Surface Roughness": {
+                                "125uin/3.2um Ra": {}
+                            }
+                        }
+                    }
+                },
+                "Other": {
+                    "Tolerance": {
+                        "+/-.005\"(+/-.127mm)": {
+                            "Surface Roughness": {
+                                "125uin/3.2um Ra": {}
+                            }
+                        }
+                    }
+                }
+            }
+        },
+        "Steel 1215": {
+            "Finish": {
+                "Standard": {
+                    "Tolerance": {
+                        "+/-.005\"(+/-.127mm)": {
+                            "Surface Roughness": {
+                                "125uin/3.2um Ra": {}
+                            }
+                        }
+                    }
+                }
+            }
+        },
+        "Steel 4130": {
+            "Finish": {
+                "Standard": {
+                    "Tolerance": {
+                        "+/-.005\"(+/-.127mm)": {
+                            "Surface Roughness": {
+                                "125uin/3.2um Ra": {}
+                            }
+                        }
+                    }
+                }
+            }
+        },
+        "Steel 4140": {
+            "Finish": {
+                "Standard": {
+                    "Tolerance": {
+                        "+/-.005\"(+/-.127mm)": {
+                            "Surface Roughness": {
+                                "125uin/3.2um Ra": {}
+                            }
+                        }
+                    }
+                }
+            }
+        },
+        "Steel 4140PH": {
+            "Finish": {
+                "Standard": {
+                    "Tolerance": {
+                        "+/-.005\"(+/-.127mm)": {
+                            "Surface Roughness": {
+                                "125uin/3.2um Ra": {}
+                            }
+                        }
+                    }
+                }
+            }
+        },
+        "Steel 4340": {
+            "Finish": {
+                "Standard": {
+                    "Tolerance": {
+                        "+/-.005\"(+/-.127mm)": {
+                            "Surface Roughness": {
+                                "125uin/3.2um Ra": {}
+                            }
+                        }
+                    }
+                }
+            }
+        },
+        "Steel A36": {
+            "Finish": {
+                "Standard": {
+                    "Tolerance": {
+                        "+/-.005\"(+/-.127mm)": {
+                            "Surface Roughness": {
+                                "125uin/3.2um Ra": {}
+                            }
+                        }
+                    }
+                }
+            }
+        },
+        "Titanium Grade 2": {
+            "Finish": {
+                "Standard": {
+                    "Tolerance": {
+                        "+/-.005\"(+/-.127mm)": {
+                            "Surface Roughness": {
+                                "125uin/3.2um Ra": {}
+                            }
+                        }
+                    }
+                },
+                "Titanium Anodize": {
+                    "Tolerance": {
+                        "+/-.005\"(+/-.127mm)": {
+                            "Surface Roughness": {
+                                "125uin/3.2um Ra": {}
+                            }
+                        }
+                    }
+                },
+                "Bead Blast": {
+                    "Tolerance": {
+                        "+/-.005\"(+/-.127mm)": {
+                            "Surface Roughness": {
+                                "125uin/3.2um Ra": {}
+                            }
+                        }
+                    }
+                },
+                "Tumbled": {
+                    "Tolerance": {
+                        "+/-.005\"(+/-.127mm)": {
+                            "Surface Roughness": {
+                                "125uin/3.2um Ra": {}
+                            }
+                        }
+                    }
+                },
+                "Electroless Nickel Plating": {
+                    "Tolerance": {
+                        "+/-.005\"(+/-.127mm)": {
+                            "Surface Roughness": {
+                                "125uin/3.2um Ra": {}
+                            }
+                        }
+                    }
+                },
+                "Gold Plating": {
+                    "Tolerance": {
+                        "+/-.005\"(+/-.127mm)": {
+                            "Surface Roughness": {
+                                "125uin/3.2um Ra": {}
+                            }
+                        }
+                    }
+                },
+                "Silver Plating": {
+                    "Tolerance": {
+                        "+/-.005\"(+/-.127mm)": {
+                            "Surface Roughness": {
+                                "125uin/3.2um Ra": {}
+                            }
+                        }
+                    }
+                },
+                "Zinc Plating": {
+                    "Tolerance": {
+                        "+/-.005\"(+/-.127mm)": {
+                            "Surface Roughness": {
+                                "125uin/3.2um Ra": {}
+                            }
+                        }
+                    }
+                },
+                "Powder Coating": {
+                    "Tolerance": {
+                        "+/-.005\"(+/-.127mm)": {
+                            "Surface Roughness": {
+                                "125uin/3.2um Ra": {}
+                            }
+                        }
+                    }
+                },
+                "Other": {
+                    "Tolerance": {
+                        "+/-.005\"(+/-.127mm)": {
+                            "Surface Roughness": {
+                                "125uin/3.2um Ra": {}
+                            }
+                        }
+                    }
+                }
+            }
+        },
+        "Titanium Grade 5": {
+            "Finish": {
+                "Standard": {
+                    "Tolerance": {
+                        "+/-.005\"(+/-.127mm)": {
+                            "Surface Roughness": {
+                                "125uin/3.2um Ra": {}
+                            }
+                        }
+                    }
+                },
+                "Titanium Anodize": {
+                    "Tolerance": {
+                        "+/-.005\"(+/-.127mm)": {
+                            "Surface Roughness": {
+                                "125uin/3.2um Ra": {}
+                            }
+                        }
+                    }
+                }
+            }
+        },
+        "Other": {
+            "Finish": {
+                "Standard": {
+                    "Tolerance": {
+                        "+/-.005\"(+/-.127mm)": {
+                            "Surface Roughness": {
+                                "125uin/3.2um Ra": {}
+                            }
+                        }
+                    }
+                },
+                "Black Anodize": {
+                    "Tolerance": {
+                        "+/-.005\"(+/-.127mm)": {
+                            "Surface Roughness": {
+                                "125uin/3.2um Ra": {}
+                            }
+                        }
+                    }
+                },
+                "Black Hardcoat Anodize": {
+                    "Tolerance": {
+                        "+/-.005\"(+/-.127mm)": {
+                            "Surface Roughness": {
+                                "125uin/3.2um Ra": {}
+                            }
+                        }
+                    }
+                },
+                "Blue Anodize": {
+                    "Tolerance": {
+                        "+/-.005\"(+/-.127mm)": {
+                            "Surface Roughness": {
+                                "125uin/3.2um Ra": {}
+                            }
+                        }
+                    }
+                },
+                "Clear Anodize": {
+                    "Tolerance": {
+                        "+/-.005\"(+/-.127mm)": {
+                            "Surface Roughness": {
+                                "125uin/3.2um Ra": {}
+                            }
+                        }
+                    }
+                },
+                "Gold Anodize": {
+                    "Tolerance": {
+                        "+/-.005\"(+/-.127mm)": {
+                            "Surface Roughness": {
+                                "125uin/3.2um Ra": {}
+                            }
+                        }
+                    }
+                }
+            }
+        }
+    }
+}

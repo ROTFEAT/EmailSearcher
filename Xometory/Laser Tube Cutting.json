@@ -1,0 +1,323 @@
+{
+    "Tube Profile": {
+        "Pipe": {
+            "Material": {
+                "Aluminum 6061": {
+                    "Finish": {
+                        "Standard, As-Cut": {},
+                        "Standard, Deburred": {},
+                        "Bead Blast": {},
+                        "Other/ Multiple Finishes": {}
+                    }
+                },
+                "Aluminum 6101": {
+                    "Finish": {
+                        "Standard, As-Cut": {},
+                        "Standard, Deburred": {},
+                        "Bead Blast": {},
+                        "Other/ Multiple Finishes": {}
+                    }
+                },
+                "Aluminum 6063": {
+                    "Finish": {
+                        "Standard, As-Cut": {},
+                        "Standard, Deburred": {},
+                        "Bead Blast": {},
+                        "Other/ Multiple Finishes": {}
+                    }
+                },
+                "Brass 230": {
+                    "Finish": {
+                        "Standard, As-Cut": {},
+                        "Standard, Deburred": {},
+                        "Bead Blast": {},
+                        "Other/ Multiple Finishes": {}
+                    }
+                },
+                "Stainless Steel 304": {
+                    "Finish": {
+                        "Standard, As-Cut": {},
+                        "Standard, Deburred": {},
+                        "Bead Blast": {},
+                        "Other/ Multiple Finishes": {}
+                    }
+                },
+                "Stainless Steel 316": {
+                    "Finish": {
+                        "Standard, As-Cut": {},
+                        "Standard, Deburred": {},
+                        "Bead Blast": {},
+                        "Other/ Multiple Finishes": {}
+                    }
+                },
+                "Mild Steel A500": {
+                    "Finish": {
+                        "Standard, As-Cut": {},
+                        "Standard, Deburred": {},
+                        "Bead Blast": {},
+                        "Other/ Multiple Finishes": {}
+                    }
+                }
+            }
+        },
+        "Rectangle": {
+            "Material": {
+                "Aluminum 6061": {
+                    "Finish": {
+                        "Standard, As-Cut": {},
+                        "Standard, Deburred": {},
+                        "Bead Blast": {},
+                        "Other/ Multiple Finishes": {}
+                    }
+                },
+                "Aluminum 6063": {
+                    "Finish": {
+                        "Standard, As-Cut": {},
+                        "Standard, Deburred": {},
+                        "Bead Blast": {},
+                        "Other/ Multiple Finishes": {}
+                    }
+                },
+                "AIuminum 6063, Anodized": {
+                    "Finish": {
+                        "Standard, As-Cut": {},
+                        "Standard, Deburred": {},
+                        "Bead Blast": {},
+                        "Other/ Multiple Finishes": {}
+                    }
+                },
+                "Brass 272": {
+                    "Finish": {
+                        "Standard, As-Cut": {},
+                        "Standard, Deburred": {},
+                        "Bead Blast": {},
+                        "Other/ Multiple Finishes": {}
+                    }
+                },
+                "Brass 385": {
+                    "Finish": {
+                        "Standard, As-Cut": {},
+                        "Standard, Deburred": {},
+                        "Bead Blast": {},
+                        "Other/ Multiple Finishes": {}
+                    }
+                },
+                "Stainless Steel 304": {
+                    "Finish": {
+                        "Standard, As-Cut": {},
+                        "Standard, Deburred": {},
+                        "Bead Blast": {},
+                        "Other/ Multiple Finishes": {}
+                    }
+                },
+                "Stainless Steel 316": {
+                    "Finish": {
+                        "Standard, As-Cut": {},
+                        "Standard, Deburred": {},
+                        "Bead Blast": {},
+                        "Other/ Multiple Finishes": {}
+                    }
+                },
+                "Mild Steel a500/a513": {
+                    "Finish": {
+                        "Standard, As-Cut": {},
+                        "Standard, Deburred": {},
+                        "Bead Blast": {},
+                        "Other/ Multiple Finishes": {}
+                    }
+                }
+            }
+        },
+        "Round": {
+            "Material": {
+                "Aluminum 2024-T3": {
+                    "Finish": {
+                        "Standard, As-Cut": {},
+                        "Standard, Deburred": {},
+                        "Bead Blast": {},
+                        "Other/ Multiple Finishes": {}
+                    }
+                },
+                "Aluminum 6061": {
+                    "Finish": {
+                        "Standard, As-Cut": {},
+                        "Standard, Deburred": {},
+                        "Bead Blast": {},
+                        "Other/ Multiple Finishes": {}
+                    }
+                },
+                "AIuminum 6063, Anodized": {
+                    "Finish": {
+                        "Standard, As-Cut": {},
+                        "Standard, Deburred": {},
+                        "Bead Blast": {},
+                        "Other/ Multiple Finishes": {}
+                    }
+                },
+                "Brass Tube": {
+                    "Finish": {
+                        "Standard, As-Cut": {},
+                        "Standard, Deburred": {},
+                        "Bead Blast": {},
+                        "Other/ Multiple Finishes": {}
+                    }
+                },
+                "Copper 101": {
+                    "Finish": {
+                        "Standard, As-Cut": {},
+                        "Standard, Deburred": {},
+                        "Bead Blast": {},
+                        "Other/ Multiple Finishes": {}
+                    }
+                },
+                "Copper 122": {
+                    "Finish": {
+                        "Standard, As-Cut": {},
+                        "Standard, Deburred": {},
+                        "Bead Blast": {},
+                        "Other/ Multiple Finishes": {}
+                    }
+                },
+                "Stainless Steel 304": {
+                    "Finish": {
+                        "Standard, As-Cut": {},
+                        "Standard, Deburred": {},
+                        "Bead Blast": {},
+                        "Other/ Multiple Finishes": {}
+                    }
+                },
+                "Stainless Steel 316": {
+                    "Finish": {
+                        "Standard, As-Cut": {},
+                        "Standard, Deburred": {},
+                        "Bead Blast": {},
+                        "Other/ Multiple Finishes": {}
+                    }
+                },
+                "Alloy Steel 4130": {
+                    "Finish": {
+                        "Standard, As-Cut": {},
+                        "Standard, Deburred": {},
+                        "Bead Blast": {},
+                        "Other/ Multiple Finishes": {}
+                    }
+                },
+                "Cold Roll Steel A513": {
+                    "Finish": {
+                        "Standard, As-Cut": {},
+                        "Standard, Deburred": {},
+                        "Bead Blast": {},
+                        "Other/ Multiple Finishes": {}
+                    }
+                },
+                "Acrylic": {
+                    "Finish": {
+                        "Standard, As-Cut": {},
+                        "Standard, Deburred": {},
+                        "Bead Blast": {},
+                        "Other/ Multiple Finishes": {}
+                    }
+                },
+                "Titanium Grade 2": {
+                    "Finish": {
+                        "Standard, As-Cut": {},
+                        "Standard, Deburred": {},
+                        "Bead Blast": {},
+                        "Other/ Multiple Finishes": {}
+                    }
+                },
+                "Other": {
+                    "Finish": {
+                        "Standard, As-Cut": {}
+                    }
+                }
+            }
+        },
+        "Square": {
+            "Material": {
+                "Aluminum 6061": {
+                    "Finish": {
+                        "Standard, As-Cut": {},
+                        "Standard, Deburred": {},
+                        "Bead Blast": {}
+                    }
+                },
+                "Aluminum 6063": {
+                    "Finish": {
+                        "Standard, As-Cut": {},
+                        "Standard, Deburred": {},
+                        "Bead Blast": {},
+                        "Other/ Multiple Finishes": {}
+                    }
+                },
+                "AIuminum 6063, Anodized": {
+                    "Finish": {
+                        "Standard, As-Cut": {},
+                        "Standard, Deburred": {},
+                        "Bead Blast": {},
+                        "Other/ Multiple Finishes": {}
+                    }
+                },
+                "Brass 272": {
+                    "Finish": {
+                        "Standard, As-Cut": {},
+                        "Standard, Deburred": {},
+                        "Bead Blast": {},
+                        "Other/ Multiple Finishes": {}
+                    }
+                },
+                "Brass 385": {
+                    "Finish": {
+                        "Standard, As-Cut": {},
+                        "Standard, Deburred": {},
+                        "Bead Blast": {},
+                        "Other/ Multiple Finishes": {}
+                    }
+                },
+                "Stainless Steel 316": {
+                    "Finish": {
+                        "Standard, As-Cut": {},
+                        "Standard, Deburred": {},
+                        "Bead Blast": {},
+                        "Other/ Multiple Finishes": {}
+                    }
+                },
+                "Mild Steel a500/a513": {
+                    "Finish": {
+                        "Standard, As-Cut": {},
+                        "Standard, Deburred": {},
+                        "Bead Blast": {},
+                        "Other/ Multiple Finishes": {}
+                    }
+                }
+            }
+        },
+        "Square Radius": {
+            "Material": {
+                "Aluminum 6061": {
+                    "Finish": {
+                        "Standard, As-Cut": {},
+                        "Standard, Deburred": {},
+                        "Bead Blast": {}
+                    }
+                },
+                "Aluminum 6063": {
+                    "Finish": {
+                        "Standard, As-Cut": {},
+                        "Standard, Deburred": {},
+                        "Bead Blast": {},
+                        "Other/ Multiple Finishes": {}
+                    }
+                }
+            }
+        },
+        "Other": {
+            "Finish": {
+                "Standard, As-Cut": {},
+                "Standard, Deburred": {},
+                "Bead Blast": {},
+                "Other/ Multiple Finishes": {}
+            }
+        }
+    }
+}

@@ -25,7 +25,9 @@ def inert2twitter(name,url,breached_email,content_email,content,source):
     try:
         tw.save()
         print("插入url",url)
+        return True
     except:
+        return False
         pass
 
 

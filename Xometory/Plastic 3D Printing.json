@@ -1,0 +1,339 @@
+{
+    "Technology": {
+        "Carbon Digital Light Synthesis (DLS)": {
+            "Material": {
+                "RPU 70": {
+                    "Finish": {
+                        "Standard": {}
+                    }
+                },
+                "UMA 90": {
+                    "Finish": {
+                        "Standard": {}
+                    }
+                },
+                "CE 221 (Cyanate ester)": {
+                    "Finish": {
+                        "Standard": {}
+                    }
+                },
+                "EPX 82": {
+                    "Finish": {
+                        "Standard": {}
+                    }
+                },
+                "FPU 50": {
+                    "Finish": {
+                        "Standard": {}
+                    }
+                },
+                "EPU 40": {
+                    "Finish": {
+                        "Standard": {}
+                    }
+                },
+                "SIL 30": {
+                    "Finish": {
+                        "Standard": {}
+                    }
+                },
+                "Other": {
+                    "Finish": {
+                        "Standard": {}
+                    }
+                },
+                "Digital ABS Plus": {
+                    "Finish": {
+                        "Standard": {}
+                    }
+                }
+            }
+        },
+        "Fused Deposition Modeling (FDM)": {
+            "Material": {
+                "ABS or ASA, Next Available": {
+                    "Finish": {
+                        "Standard": {}
+                    }
+                },
+                "ABS-ESD7": {
+                    "Finish": {
+                        "Standard": {}
+                    }
+                },
+                "ABS-M30": {
+                    "Finish": {
+                        "Standard": {}
+                    }
+                },
+                "ABS-M30i": {
+                    "Finish": {
+                        "Standard": {}
+                    }
+                },
+                "ASA": {
+                    "Finish": {
+                        "Standard": {}
+                    }
+                },
+                "Nylon 12": {
+                    "Finish": {
+                        "Standard": {}
+                    }
+                },
+                "PC (Polycarbonate)": {
+                    "Finish": {
+                        "Standard": {}
+                    }
+                },
+                "PC-ABS": {
+                    "Finish": {
+                        "Standard": {}
+                    }
+                },
+                "PC-ISO": {
+                    "Finish": {
+                        "Standard": {}
+                    }
+                },
+                "Ultem 1010": {
+                    "Finish": {
+                        "Standard": {}
+                    }
+                },
+                "Ultem 9085": {
+                    "Finish": {
+                        "Standard": {}
+                    }
+                },
+                "Prototyping PLA (FFF)": {
+                    "Finish": {
+                        "Standard": {}
+                    }
+                },
+                "Digital ABS Plus": {
+                    "Finish": {
+                        "Standard": {}
+                    }
+                }
+            }
+        },
+        "HP Multi Jet Fusion (MJF)": {
+            "Material": {
+                "Nylon 11": {
+                    "Finish": {
+                        "Standard": {},
+                        "Vapor Smoothing": {}
+                    }
+                },
+                "Nylon 12, Glass Bead Filled (GF)": {
+                    "Finish": {
+                        "Standard": {},
+                        "Vapor Smoothing": {}
+                    }
+                },
+                "Polypropylene (PP)": {
+                    "Finish": {
+                        "Standard": {}
+                    }
+                },
+                "TPU 88A": {
+                    "Finish": {
+                        "Standard": {},
+                        "Vapor Smoothing": {}
+                    }
+                },
+                "Digital ABS Plus": {
+                    "Finish": {
+                        "Standard": {}
+                    }
+                }
+            }
+        },
+        "Polyjet": {
+            "Material": {
+                "Opaque Photopolymer, Rigid": {
+                    "Finish": {
+                        "Standard": {},
+                        "Upper-face, Glossy": {}
+                    }
+                },
+                "Translucent/ Clear Photopolymer": {
+                    "Finish": {
+                        "Standard": {},
+                        "Upper-face, Glossy": {}
+                    }
+                },
+                "Photopolymer, Rubber-like": {
+                    "Finish": {
+                        "Standard": {},
+                        "Upper-face, Glossy": {}
+                    }
+                },
+                "Digital ABS Plus": {
+                    "Finish": {
+                        "Standard": {},
+                        "Upper-face, Glossy": {}
+                    }
+                },
+                "Multi Material (Digital Overmold)": {
+                    "Finish": {
+                        "Standard": {},
+                        "Upper-face, Glossy": {}
+                    }
+                }
+            }
+        },
+        "Selective Laser Sintering (SLS)": {
+            "Material": {
+                "Digital ABS Plus": {
+                    "Finish": {
+                        "Standard": {}
+                    }
+                },
+                "Nylon 12": {
+                    "Finish": {
+                        "Standard": {},
+                        "Vapor Smoothing": {},
+                        "Media Tumbling": {},
+                        "Nickel Plating": {}
+                    }
+                },
+                "Nylon 11 (EX)": {
+                    "Finish": {
+                        "Standard": {}
+                    }
+                },
+                "Nylon 12, Aluminum-Filled (AF)": {
+                    "Finish": {
+                        "Standard": {}
+                    }
+                },
+                "Nylon 12, Carbon-Filled (CF)": {
+                    "Finish": {
+                        "Standard": {},
+                        "Media Tumbling": {}
+                    }
+                },
+                "Nylon 12, Flame Retardant (FR)": {
+                    "Finish": {
+                        "Standard": {},
+                        "Media Tumbling": {}
+                    }
+                },
+                "Nylon 12, Glass Bead Filled (GF)": {
+                    "Finish": {
+                        "Standard": {},
+                        "Vapor Smoothing": {},
+                        "Media Tumbling": {},
+                        "Nickel Plating": {}
+                    }
+                },
+                "Nylon 12, Mineral-Filled (HST)": {
+                    "Finish": {
+                        "Standard": {},
+                        "Media Tumbling": {}
+                    }
+                }
+            }
+        },
+        "Stereolithography": {
+            "Material": {
+                "Digital ABS Plus": {
+                    "Finish": {
+                        "Matte": {},
+                        "Natural": {},
+                        "Strip and Ship": {}
+                    }
+                },
+                "Accura 25": {
+                    "Finish": {
+                        "Matte": {},
+                        "Natural": {},
+                        "Strip and Ship": {}
+                    }
+                },
+                "Accura ABS Black (SL 7820)": {
+                    "Finish": {
+                        "Matte": {},
+                        "Natural": {},
+                        "Strip and Ship": {}
+                    }
+                },
+                "Accura Xtreme White 200": {
+                    "Finish": {
+                        "Matte": {},
+                        "Natural": {},
+                        "Strip and Ship": {}
+                    }
+                },
+                "Somos EvoLVe 128": {
+                    "Finish": {
+                        "Matte": {},
+                        "Natural": {},
+                        "Strip and Ship": {}
+                    }
+                },
+                "Somos Taurus": {
+                    "Finish": {
+                        "Matte": {},
+                        "Natural": {},
+                        "Strip and Ship": {}
+                    }
+                },
+                "Somos Watershed XC 11122": {
+                    "Finish": {
+                        "Matte": {},
+                        "Natural": {},
+                        "Strip and Ship": {},
+                        "Quick Clear": {}
+                    }
+                },
+                "Accura 48HTR": {
+                    "Finish": {
+                        "Matte": {},
+                        "Natural": {},
+                        "Strip and Ship": {}
+                    }
+                },
+                "Accura 60": {
+                    "Finish": {
+                        "Matte": {},
+                        "Natural": {},
+                        "Strip and Ship": {},
+                        "Quick Clear": {}
+                    }
+                },
+                "Accura ClearVue": {
+                    "Finish": {
+                        "Matte": {},
+                        "Natural": {},
+                        "Strip and Ship": {},
+                        "Quick Clear": {}
+                    }
+                },
+                "Somos WaterClear Ultra 10122": {
+                    "Finish": {
+                        "Matte": {},
+                        "Natural": {},
+                        "Strip and Ship": {}
+                    }
+                },
+                "Accura Bluestone": {
+                    "Finish": {
+                        "Matte": {},
+                        "Natural": {},
+                        "Strip and Ship": {}
+                    }
+                },
+                "Somos PerFORM": {
+                    "Finish": {
+                        "Matte": {},
+                        "Natural": {},
+                        "Strip and Ship": {}
+                    }
+                }
+            }
+        }
+    }
+}

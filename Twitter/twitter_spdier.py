@@ -3,7 +3,7 @@ from Twitter.twitter import inert2twitter
 from Twitter.breached_twitter import query_email
 class Twitter_spider(BaseSpider):
 # "css-18t94o4 css-1dbjc4n r-1ny4l3l r-ymttw5 r-1f1sjgu r-o7ynqc r-6416eg"
-
+    count = 0
     def getfollowers(self):
         self.GetPage()
         # cards = self.page.css('.css-18t94o4.css-1dbjc4n.r-1ny4l3l.r-ymttw5.r-1f1sjgu.r-o7ynqc.r-6416eg')
@@ -22,28 +22,60 @@ class Twitter_spider(BaseSpider):
             # except:
             #     breached_email = ""
             # 入库
-            inert2twitter(name = name,url=url,breached_email=breached_email,content_email=email_str,content=content,source=source)
-
+            res =inert2twitter(name = name,url=url,breached_email=breached_email,content_email=email_str,content=content,source=source)
+            if res:
+                self.count+=1
+                print("抓取了：",self.count,"个账号")
+                
             # number = (name,url,content,email)
             # print(number)
 
     def setsource(self,source):
         self.source = source
+    
+    # def 
 
 from selenium.webdriver.common.keys import Keys
 
 if __name__ =="__main__":
     url = "https://www.twitter.com/"
-    foll_url = "https://twitter.com/RAPIDDIRECT1/followers"
-    # following_url = "https://twitter.com/HubsMFG/following"
-    source = foll_url.replace("https://twitter.com/","").replace("/followers","")
-    twitter_spider = Twitter_spider(url)
-    cookie_file_path = "twitter/twitter.json"
-    twitter_spider.useCookie(cookie_path=cookie_file_path,url = foll_url)
-    twitter_spider.setsource(source=source)#设置数据来源
-    while True:
-        twitter_spider.getfollowers()
-        twitter_spider.broswer.execute_script('window.scrollBy(0,600)')
-        time.sleep(1)
+    target_urls  = [
+        # "https://twitter.com/fictiv",
+        # "https://twitter.com/QuickpartsMFG",
+        # "https://twitter.com/3erapid",
+        # "https://twitter.com/HLHPrototypes",
+        # "https://twitter.com/fathommfg",
+        # "https://twitter.com/craftcloud3d",
+        # "https://twitter.com/sculpteo",
+        # "https://twitter.com/wikifactory",
+        # "https://twitter.com/useplyable",
+        "https://twitter.com/SuNPe_PROTOTYPE",
+        "https://twitter.com/Rapidmade",
+        "https://twitter.com/prismier",
+        "https://twitter.com/ProtocaseInc",
+        "https://twitter.com/ENSCO_Inc",
+        "https://twitter.com/Prototek",
+        ]
+    for target_url in target_urls:
+        foll_url = target_url+"/followers"
+        # following_url = "https://twitter.com/HubsMFG/following"
+        source = foll_url.replace("https://twitter.com/","").replace("/followers","")
+        twitter_spider = Twitter_spider(url)
+        cookie_file_path = "twitter/twitter.json"
+        twitter_spider.useCookie(cookie_path=cookie_file_path,url = foll_url)
+        twitter_spider.setsource(source=source)#设置数据来源
+        twitter_spider.broswer.minimize_window()
+        while True:
+            twitter_spider.getfollowers()
+            twitter_spider.broswer.execute_script('window.scrollBy(0,600)')
+
+            if twitter_spider.isthatButtom():#如果是底部 就退出
+                print('已经到底部了 浏览器退出')
+                break
+            # hight = twitter_spider.broswer.execute_script('return document.body.scrollHeight')
+            # hight2 = twitter_spider.broswer.execute_script('return document.documentElement.scrollHeight')
+            
+            time.sleep(1)
+        
         
     

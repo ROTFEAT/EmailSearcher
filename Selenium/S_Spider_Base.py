@@ -35,6 +35,7 @@ class BaseSpider():
     NewEnter = -1
     CapEnter = -1
     url = None
+    hight = []
     def __init__(self,req_url):
         chromedriver_path = r"chromedriver.exe"
         chrome_options = Options()
@@ -42,6 +43,7 @@ class BaseSpider():
         chrome_options.add_argument('--profile-directory=Default')
         # chrome_options.add_argument("--incognito")
         chrome_options.add_argument("--disable-plugins-discovery")
+        # chrome_options.add_argument("--start-maximized")
         chrome_options.add_argument("--start-maximized")
         # chrome_options.add_argument('--headless') #无窗口模式
         # chrome_options.binary_location = r"ChromePortable64\GoogleChromePortable.exe" #使用特定的chrome
@@ -51,6 +53,7 @@ class BaseSpider():
         while True:
             try:
                 broswer.get(req_url)
+                # broswer.minimize_window()
                 break
             except:
                 time.sleep(5)
@@ -62,9 +65,8 @@ class BaseSpider():
 
         #broswer就是通常的driver
     def useCookie(self,cookie_path,url = None):
-
-
-        # cookie_path  = 'xometory/cookies.json' 路径举例
+        # 路径举例
+        # cookie_path  = 'xometory/cookies.json' 
         try:
             self.broswer.delete_all_cookies()
         except:
@@ -118,6 +120,15 @@ class BaseSpider():
         SenderName = self.page.css('.chat-item.danmaku-item::attr(data-uname)').extract()
         SenderContent = self.page.css('.chat-item.danmaku-item::attr(data-danmaku)').extract()
     
+    def isthatButtom(self):
+        hight = self.broswer.execute_script('return document.body.scrollHeight')
+        self.hight.append(hight)
+
+        if (sum(self.hight[-10:])/10)==self.hight[-1]:
+            #连续10次高度都不变 则判断为滚到了底部。
+            return True
+        else:
+            return False
 
 def htmlfilter(raw_str):
     try:
@@ -141,6 +152,11 @@ def list2str(list):
     res = ','.join(list) 
     return res 
 
+# def websitefilter(raw_str):
+
+# def keywordfilter(raw_str):
+
+    
     
 
 if __name__ =="__main__":
